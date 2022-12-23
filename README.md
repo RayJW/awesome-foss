@@ -13,6 +13,7 @@ This is why I created this list of FOSS (Free and Open Source Software) that you
 - **Everyday Software**
   - [Password Managers](#password-managers)
   - [2FA](#two-factor-authentication)
+  - [Browsers](#browsers)
 
 ## Password Managers
 
@@ -47,6 +48,26 @@ Two-factor authentication has gained a lot of attention in recent years. However
 ### Honourable Mentions
 
 [Authy](https://authy.com/) (**proprietary**) is a very widely used 2FA application because of its sync capabilities. I, however, discourage the use of Authy as it is completely closed-source, and it is not possible to extract your seeds, which means you can **not** easily switch to another application.
+
+## Browsers
+
+Browsers are one of the most important tools of our daily life. They are also a huge privacy and security threat since we use them to interface with all sorts of untrusted third-party websites. Since many modern applications are switching to the easier web app solution, they are also becoming increasingly influential as we started using browsers for many private things, e.g. mail. Thus, it is very important to use a secure and private option to protect yourself from the many unknown dangers of the open web.
+
+| Software  | Description |
+|-----------|-------------|
+| [Firefox](https://www.mozilla.org/en-US/firefox/browsers/) | By far the most mainstream option is the Firefox browser. It delivers a very privacy conscious configuration out of the box and has sane defaults. Honestly, one can barely go wrong with Firefox. |
+| [LibreWolf](https://librewolf.net/) | For anyone wanting to go a step further LibreWolf is a great alternative as it is an independent fork of Firefox that aims to provide even better defaults increasing the privacy, security, and user freedom. However, site breakages could be more likely as it also includes an ad-blocker by default. |
+| [Tor Browser](https://www.torproject.org/) | Tor definitely provides the most anonymity and privacy out of all the options. By its unique design, it routes all traffic through multiple nodes, so no single point of failure can be used to track its users. It also has a highly secure config by default, taking into account almost all ways to track users across the internet. That, however, does come with a usability trade-off. |
+
+### Chromium Commentary
+
+Google has shown time and time again that they are willing to abuse their browser monopoly to push technologies and features against the user's best interest. E.g. MV3 nerfing ad-blockers, killing JPEG XL support to push its own inferior WebP, and tracking users with proprietary Chromium features while also killing any competition by disabling cookies. While some of those things are still in progress, I cannot put any Chromium-based browsers in the superior options as currently no fork has shown the capabilities / resources necessary to create a Chromium fork without the controversies. For more info, check the [Contra Chrome Comic](https://contrachrome.com/).
+
+### Honourable Mentions
+
+[Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) is the only option I can somewhat recommend as it is a Chromium fork that completely removed all proprietary Google integration stuff and greatly increases your privacy.
+
+[Brave Browser](https://brave.com/) is another option. However, there have been a few controversies surrounding it, e.g. it started manipulating links by adding referral codes. This is a tremendous break of trust as you, the user, should decide what links you want to visit and not your browser. Finally, it's also still Chromium-based, thus vulnerable to all those issues I talked about above. This is why I can't really recommend using Brave.
 
 ## Contributing
 
