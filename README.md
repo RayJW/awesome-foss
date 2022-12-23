@@ -16,6 +16,8 @@ This is why I created this list of FOSS (Free and Open Source Software) that you
   - [Browsers](#browsers)
 - **[Communication](#communication)**
   - [Instant Messaging](#instant-messaging)
+  - [E-Mail](#e-mail)
+    - [E-Mail Providers](#e-mail-providers)
 
 ## Everyday Software
 
@@ -91,7 +93,29 @@ Instant messaging has become the main way we communicate these days. Although th
 
 #### Word of Caution
 
-While there are many messaging apps out there that claim to be secure, there are a lot of options that do not provide perfect security and/or privacy. **I would not trust these!** A few examples are Telegram, Threema, Silent Phone, and Viber. These sould not be used to communicate personal data as they they have flaws compromising their integrity.
+While there are many messaging apps out there that claim to be secure, there are many options that do not provide perfect security and / or privacy. **I would not trust these!** A few examples are Telegram, Threema, Silent Phone, and Viber. These should not be used to communicate personal data as they have flaws, compromising their integrity.
+
+### E-mail
+
+First things first, e-mail is **not** secure! Your communication can easily be intercepted and either manipulated or spied on. There is also the [PRISM program](https://en.wikipedia.org/wiki/PRISM_(surveillance_program)), ensuring that the government has full access to all your emails (as long as they are not end-to-end encrypted (E2EE)). This sadly includes Gmail, Yahoo Mail, GMX, iCloud, Outlook Mail, and many more.
+I still provide a list of open-source, E2EE, and somewhat secure e-mail providers that do protect user data. This does not mean that you should rely on e-mail for sensitive information in most cases, though.
+
+#### E-mail Providers
+
+| Provider  | Description |
+|-----------|-------------|
+| [ProtonMail](https://proton.me/mail) | This is an open-source and E2EE e-mail service that is somewhat anonymous. It is based in Switzerland. They have a modern UI and native mobile apps. They offer a free plan that has everything you need to get you started and a premium option where you can get extras, like custom domains. Signing up requires no personal data, and you can access their service via Tor on their [.onion](https://protonirockerxow.onion/) address. |
+| [Tutanota](https://tutanota.com/) | This open-source e-mail service is based in Germany and has a basic UI that is pretty intuitive for people moving over. They also offer secure, native mobile apps, and anonymous signup. Just like with ProtonMail, you get the possibility to sign up for their free service or their premium plan offering additional features. However, their encryption does not use OpenPGP, which means support can be flaky with other e-mail providers. |
+| [mailbox.org](https://mailbox.org/en/) | Mailbox.org is also based in Germany. They offer no free plan, but their standard service only costs €12/year. They are an eco-friendly service as their operations are 100% powered by eco-friendly energy. Furthermore, they also offer you to use your custom domain, e-mail encryption, proper account security, and encrypted mail storage. They don't have native e-mail clients, but they work well with any other client listed below. |
+
+##### Honourable Mentions
+
+There are many more good options for private mail. Some notable ones are [StartMail](https://www.startmail.com/en/), [HushMail](https://www.hushmail.com/), [Skiff](https://skiff.com/), and [Disroot](https://disroot.org/en/services/email).
+
+##### Word of Caution
+
+- OpenPGP does not offer Perfect Forward Secrecy (PFS), since I disqualified instant messengers not supporting PFS, I also have to mention that here. This means that if the private key ever leaks, all previous data can easily be decrypted.
+- Even when using end-to-end encrypted e-mail, not all information is encrypted. So, metadata will still inevitably be leaked.
 
 ## Contributing
 
