@@ -10,12 +10,16 @@ This is why I created this list of FOSS (Free and Open Source Software) that you
 
 ### Categories
 
-- **Everyday Software**
+- **[Everyday Software](#everyday-software)**
   - [Password Managers](#password-managers)
   - [2FA](#two-factor-authentication)
   - [Browsers](#browsers)
+- **[Communication](#communication)**
+  - [Instant Messaging](#instant-messaging)
 
-## Password Managers
+## Everyday Software
+
+### Password Managers
 
 Password managers are a very critical piece of software in our everyday lives, and everyone should use one. I would argue that using a FOSS password manager is very critical as it contains close to your whole digital identity and therefore represents a single point of failure for most of us. Using a well established open-source solution ensures that thousands of eyes have audited the source code and thoroughly searched for security vulnerabilities. It also gives the community the possibility to maintain an abandoned password manager until everyone has had the chance of moving away if a company behind an open-source password manager should ever stop operations.
 
@@ -68,6 +72,10 @@ Google has shown time and time again that they are willing to abuse their browse
 [Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) is the only option I can somewhat recommend as it is a Chromium fork that completely removed all proprietary Google integration stuff and greatly increases your privacy.
 
 [Brave Browser](https://brave.com/) is another option. However, there have been a few controversies surrounding it, e.g. it started manipulating links by adding referral codes. This is a tremendous break of trust as you, the user, should decide what links you want to visit and not your browser. Finally, it's also still Chromium-based, thus vulnerable to all those issues I talked about above. This is why I can't really recommend using Brave.
+
+## Communication
+
+### Instant Messaging
 
 ## Contributing
 
