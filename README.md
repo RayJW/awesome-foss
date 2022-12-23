@@ -28,6 +28,10 @@ Password managers are a very critical piece of software in our everyday lives, a
 
 - [Passwork](https://passwork.pro/) is another password manager option from Finland. It is primarily aimed at collaboration use in companies or teams. It is however on the pricier side and does not have a free version. The source code is also only auditable by customers.
 
+## Contributing
+
+Thanks for checking out my list! It is still work in progress and new information will gradually be added whenever I discover new awesome FOSS software. If you want to help contributions are very welcome and you can find all the information you need to get started in: [`CONTRIBUTING.md`](CONTRIBUTING.md)
+
 ## License
 
 *Licensed under [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0.html)*
