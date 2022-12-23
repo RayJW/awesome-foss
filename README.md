@@ -18,6 +18,7 @@ This is why I created this list of FOSS (Free and Open Source Software) that you
   - [Instant Messaging](#instant-messaging)
   - [E-Mail](#e-mail)
     - [E-Mail Providers](#e-mail-providers)
+    - [E-Mail Clients](#e-mail-clients)
 
 ## Everyday Software
 
@@ -97,7 +98,9 @@ While there are many messaging apps out there that claim to be secure, there are
 
 ### E-mail
 
-First things first, e-mail is **not** secure! Your communication can easily be intercepted and either manipulated or spied on. There is also the [PRISM program](https://en.wikipedia.org/wiki/PRISM_(surveillance_program)), ensuring that the government has full access to all your emails (as long as they are not end-to-end encrypted (E2EE)). This sadly includes Gmail, Yahoo Mail, GMX, iCloud, Outlook Mail, and many more.
+First things first, e-mail is **not** secure! Email is not a secure form of communication, as it is possible for third parties, including governments, to intercept and read emails. This is particularly true for emails that are transmitted over unencrypted connections.
+The [PRISM surveillance program](https://en.wikipedia.org/wiki/PRISM_(surveillance_program)), run by the National Security Agency (NSA) in the United States, is one example of how governments can access and analyze the email and other electronic communications of individuals.
+While there are ways to secure email and make it more difficult for third parties to intercept messages, such as using end-to-end encryption, it is important to be aware that email is not a completely secure form of communication and to be cautious about the information you share via email.
 I still provide a list of open-source, E2EE, and somewhat secure e-mail providers that do protect user data. This does not mean that you should rely on e-mail for sensitive information in most cases, though.
 
 #### E-mail Providers
@@ -116,6 +119,11 @@ There are many more good options for private mail. Some notable ones are [StartM
 
 - OpenPGP does not offer Perfect Forward Secrecy (PFS), since I disqualified instant messengers not supporting PFS, I also have to mention that here. This means that if the private key ever leaks, all previous data can easily be decrypted.
 - Even when using end-to-end encrypted e-mail, not all information is encrypted. So, metadata will still inevitably be leaked.
+
+#### E-mail Clients
+
+| Software  | Description |
+|-----------|-------------|
 
 ## Contributing
 
