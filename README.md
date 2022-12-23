@@ -25,7 +25,7 @@ Password managers are a very critical piece of software in our everyday lives, a
 | [Passbolt](https://www.passbolt.com/) | Passbolt is another solution which can be self-hosted or used on their cloud. Its primary use is collaboration work, and it has many convenience features for companies and big teams. |
 | [KeePass](https://keepass.info/) | KeePass is one of the solutions that has been around the longest on this list. It is very well established and there are adaptions for pretty much every platform out there. It has no cloud syncing option, but it is very extensible. For bonus information check [awesome-keepass](https://github.com/lgg/awesome-keepass) made by @lgg. |
 
-### Honourable mentions
+### Honourable Mentions
 
 - [Passwork](https://passwork.pro/) is another password manager option from Finland. It is primarily aimed at collaboration use in companies or teams. It is however on the pricier side and does not have a free version. The source code is also only auditable by customers.
 
@@ -43,6 +43,8 @@ Two-factor authentication has gained a lot of attention in recent years. However
 | [Raivo](https://raivo-otp.com/) (iOS / MacOS) | Raivo OTP is a beautiful 2FA app with icon support that is natively made for iOS and macOS with on- and offline backups. |
 | [Authenticator](https://mattrubin.me/authenticator/) (iOS) | Authenticator is a simple, and open-source authenticator app for iOS that never connects to the internet. |
 | [Authenticator](https://authenticator.cc/) (Browser) | The Authenticator browser extension adds 2FA support right into your browser with both time, and HMAC-Based OTPs. |
+
+### Honourable Mentions
 
 [Authy](https://authy.com/) (**proprietary**) is a very widely used 2FA application because of its sync capabilities. I, however, discourage the use of Authy as it is completely closed-source, and it is not possible to extract your seeds, which means you can **not** easily switch to another application.
 
