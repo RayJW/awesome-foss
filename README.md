@@ -8,6 +8,24 @@ In our current online world, most of our software choices are dominated by propr
 
 This is why I created this list of FOSS (Free and Open Source Software) that you can use as a replacement for proprietary solutions.
 
+### Categories
+
+- **Everyday Software**
+  - [Password Managers](#password-managers)
+
+## Password Managers
+
+| Software  | Description |
+|-----------|-------------|
+| [Bitwarden](https://bitwarden.com/) | Bitwarden is one of the biggest open-source password managers. It is easy to use, supports 2FA integration and is free for almost all features. The premium version only costs 10 USD/year. For a free self-hosted implementation, check [Vaultwarden](https://github.com/dani-garcia/vaultwarden) which is compatible with all upstream clients. |
+| [Padloc](https://padloc.app/) | Padloc is another piece of open-source software which features end-to-end encryption and a client for all major platforms and browsers. The most essential features are free, and it has many features aimed at businesses or families in its premium versions. It's also possible to self-host Padloc with the use of Docker. |
+| [Passbolt](https://www.passbolt.com/) | Passbolt is another solution which can be self-hosted or used on their cloud. Its primary use is collaboration work, and it has many convenience features for companies and big teams. |
+| [KeePass](https://keepass.info/) | KeePass is one of the solutions that has been around the longest on this list. It is very well established and there are adaptions for pretty much every platform out there. It has no cloud syncing option, but it is very extensible. For bonus information check [awesome-keepass](https://github.com/lgg/awesome-keepass) made by @lgg. |
+
+### Honorable mentions
+
+- [Passwork](https://passwork.pro/) is another password manager option from Finland. It is primarily aimed at collaboration use in companies or teams. It is however on the pricier side and does not have a free version. The source code is also only auditable by customers.
+
 ## License
 
 *Licensed under [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0.html)*
