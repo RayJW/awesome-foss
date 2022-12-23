@@ -1,6 +1,6 @@
 # Awesome FOSS
 
-This is a curated list of all the FOSS software I regularly use or follow to keep track of privacy respecting alternatives.
+Welcome to my open-source list! This list is a collection of links and information to open-source alternatives to proprietary software. My goal is to provide a resource for users to find and learn about open-source options for a variety of different applications and tools. I hope that this list will be a useful resource for anyone interested in open-source software.
 
 ## Intro
 
