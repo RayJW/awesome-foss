@@ -12,6 +12,7 @@ This is why I created this list of FOSS (Free and Open Source Software) that you
 
 - **Everyday Software**
   - [Password Managers](#password-managers)
+  - [2FA](#two-factor-authentication)
 
 ## Password Managers
 
@@ -27,6 +28,16 @@ Password managers are a very critical piece of software in our everyday lives, a
 ### Honorable mentions
 
 - [Passwork](https://passwork.pro/) is another password manager option from Finland. It is primarily aimed at collaboration use in companies or teams. It is however on the pricier side and does not have a free version. The source code is also only auditable by customers.
+
+## Two-Factor Authentication
+
+Two-factor authentication has gained a lot of attention in recent years. However, not everyone is still using this critical security measure to ensure your accounts stay safe. It is important to use a solution that offers the exporting and importing of keys to make sure one doesn't lose account access in case of device failure / loss.
+
+| Software  | Description |
+|-----------|-------------|
+| [WinAuth](https://winauth.github.io/winauth/) (Windows) | WinAuth is a portable 2FA solution that supports counter and time-based authenticators. However development has stopped in 2017. |
+| [Aegis Authenticator](https://getaegis.app/) (Android) | Free, secure and open-source app for Android. Offers a backup / restore feature and has a customizable UI. |
+| [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) (Android) | Free and open-source 2FA app for Android featuring encrypted backups, icons, categories and a many options for customization. Also features a Wear OS companion app. |
 
 ## Contributing
 
