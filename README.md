@@ -30,7 +30,7 @@ Password managers are a very critical piece of software in our everyday lives, a
 
 ## Contributing
 
-Thanks for checking out my list! It is still work in progress and new information will gradually be added whenever I discover new awesome FOSS software. If you want to help contributions are very welcome and you can find all the information you need to get started in: [`CONTRIBUTING.md`](CONTRIBUTING.md)
+Thanks for checking out my list! It is still very much work in progress and new information will gradually be added whenever I discover new awesome FOSS software. If you want to help, contributions are very welcome, and you can find all the information you need to get started in: [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 ## License
 
