@@ -134,12 +134,22 @@ There are many more good options for private mail. Some notable ones are [StartM
 
 ### Collaboration Platforms
 
-Online team collaboration has been at the forefront of our lives for some time now, and it is increasingly clear, that it is here to stay. Thus, it is very unfortunate that many of the most popular options, like Slack, Microsoft Teams, Discord, and Google for Work have serious privacy issues. Luckily, there are great open-source alternatives out there to stay in control of your data.
+Online team collaboration has been at the forefront of our lives for some time now, and it is increasingly clear, that it is here to stay. Thus, it is very unfortunate that many of the most popular options, like Slack, Microsoft Teams, and Google for Work have serious privacy issues. Luckily, there are great open-source alternatives out there to stay in control of your data.
 
 | Software  | Description |
 |-----------|-------------|
 | [Rocket.Chat](https://www.rocket.chat/) | Self-hosted, cross-platform, and feature-rich. Rocket.Chat has a fast, intuitive UI and should feel right at home for most users that have experience with other collaboration platforms. This is an ideal solution for teams looking to take their organization to the next level with a wide variety of integrations. |
 | [Mattermost](https://mattermost.com/) | One of the preffered solutions for technical teams. Mattermost has an open-source edition and can be self-hosted. It is a great Slack alternative and has many integrations while featuring a native client for all major platforms. |
+
+### Video Conferencing
+
+In light of the enormous amount of [security issues with Zoom](https://www.tomsguide.com/news/zoom-security-privacy-woes/), and many other mainstream options, it becomes clear that we need open, private, and secure video calling. What solution works best for you depends on many things like usability, features, and security requirements.
+
+| Software  | Description |
+|-----------|-------------|
+| [Jitsi Meet](https://jitsi.org/) | Is the open-source video calling app that has it all. Creating an account is optional to use this software offering encrypted and free video calling available on the web, the desktop, and mobile. You are free to use the public, your own self-hosted, [or any other community hosted Jitsi instance](https://jitsi.github.io/handbook/docs/community/community-instances/) for your calls. |
+| [Jami](https://jami.net/) | This is a free and open-source, distributed video calling and screen sharing platform that heavily focuses on security. Jami is peer-to-peer, and features full E2EE including PFS for all your communications. It has apps for all major platforms, including mobile. |
+| [BigBlueButton](https://bigbluebutton.org/) | This pedagogic-centric virtual classroom is ideal for people that are searching for a self-hosted, open-source solution featuring many classroom-like features. It sports features like breakout rooms, and multi-user whiteboards which make online teaching a breeze. |
 
 ## Contributing
 
