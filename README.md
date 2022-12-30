@@ -19,6 +19,8 @@ This is why I created this list of FOSS (Free and Open Source Software) that you
   - [E-Mail](#e-mail)
     - [E-Mail Providers](#e-mail-providers)
     - [E-Mail Clients](#e-mail-clients)
+- **[Productivity](#productivity)**
+  - [Collaboration Platforms](#collaboration-platforms)
 
 ## Everyday Software
 
@@ -127,6 +129,17 @@ There are many more good options for private mail. Some notable ones are [StartM
 | [Mozilla Thunderbird](https://www.thunderbird.net/en-US/) (Desktop) | As a free and open-source solution created and backed by Mozilla, Thunderbird is an excellent e-mail client for all major platforms that is customizable and easy to user. There is also the [Betterbird](https://www.betterbird.eu/) fork, which aims to provide an even better experience with more bug fixes and features. |
 | [RoundCube](https://roundcube.net/) (Web) | This browser-based IMAP client features an application-like UI and has full functionality you would expect from an e-mail client. |
 | [K-9 Mail](https://k9mail.app/) (Android) | It was acquired by Thunderbird and is probably the feature-richest Android e-mail client you can find. It provides all the features you need for secure messaging, including OpenGPG capabilities for E2EE e-mails. |
+
+## Productivity
+
+### Collaboration Platforms
+
+Online team collaboration has been at the forefront of our lives for some time now, and it is increasingly clear, that it is here to stay. Thus, it is very unfortunate that many of the most popular options, like Slack, Microsoft Teams, Discord, and Google for Work have serious privacy issues. Luckily, there are great open-source alternatives out there to stay in control of your data.
+
+| Software  | Description |
+|-----------|-------------|
+| [Rocket.Chat](https://www.rocket.chat/) | Self-hosted, cross-platform, and feature-rich. Rocket.Chat has a fast, intuitive UI and should feel right at home for most users that have experience with other collaboration platforms. This is an ideal solution for teams looking to take their organization to the next level with a wide variety of integrations. |
+| [Mattermost](https://mattermost.com/) | One of the preffered solutions for technical teams. Mattermost has an open-source edition and can be self-hosted. It is a great Slack alternative and has many integrations while featuring a native client for all major platforms. |
 
 ## Contributing
 
