@@ -124,7 +124,7 @@ There are many more good options for private mail. Some notable ones are [StartM
 
 | Software  | Description |
 |-----------|-------------|
-| [Mozilla Thunderbird](https://www.thunderbird.net/en-US/) (Desktop) | As a free and open-source solution created and backed by Mozilla, Thunderbird is an excellent e-mail client for all major platforms that is customizable and easy to user. There is also the [Betterbird](https://www.betterbird.eu/) fork, which aims to provide an even better experience. |
+| [Mozilla Thunderbird](https://www.thunderbird.net/en-US/) (Desktop) | As a free and open-source solution created and backed by Mozilla, Thunderbird is an excellent e-mail client for all major platforms that is customizable and easy to user. There is also the [Betterbird](https://www.betterbird.eu/) fork, which aims to provide an even better experience with more bug fixes and features. |
 | [RoundCube](https://roundcube.net/) (Web) | This browser-based IMAP client features an application-like UI and has full functionality you would expect from an e-mail client. |
 | [K-9 Mail](https://k9mail.app/) (Android) | It was acquired by Thunderbird and is probably the feature-richest Android e-mail client you can find. It provides all the features you need for secure messaging, including OpenGPG capabilities for E2EE e-mails. |
 
