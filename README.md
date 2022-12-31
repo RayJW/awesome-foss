@@ -20,6 +20,7 @@ This is why I created this list of FOSS (Free and Open Source Software) that you
     - [E-Mail Providers](#e-mail-providers)
     - [E-Mail Clients](#e-mail-clients)
 - **[Productivity](#productivity)**
+  - [Office Suite](#office-suite)
   - [Collaboration Platforms](#collaboration-platforms)
 
 ## Everyday Software
@@ -139,6 +140,14 @@ When communicating with big communities of strangers a very specific feature set
 | [Revolt.Chat](https://revolt.chat/) | Although, still in public beta Revolt.Chat already features an impressive repertoire of features. It is the closest to a Discord alternative you will probably get and has an impressive looking roadmap. It has a much more open approach than Discord, featuring community themes, and plugins without the risk of getting banned for using a modified client. Furthermore, it respects your privacy and collects no personal data, and it even has plans for full E2EE for direct, and group messaging. |
 
 ## Productivity
+
+### Office Suite
+
+Everyone needs an office suite occasionally. Software like Microsoft Office, and Google Docs have become in disposable in our world. However, there is no reason why such important software should be hidden behind subscriptions, paywalls, and data hogging services. Now is the time better than ever to switch over to a solution supporting open standards and protecting your data at no cost! Especially as many schools / governments recently decided that cloud office solutions are unfit for sensitive data like that of children.
+
+| Software  | Description |
+|-----------|-------------|
+| [LibreOffice](https://www.libreoffice.org/) (Desktop) | This is probably by far the most commonly used Office alternative. It has a ton of features, is open-source, regularly receives new updates, and feels great on every desktop platform. With a bit of tweaks, the compatibility with Microsoft Office works great, and the interface can be made surprisingly similar. For more information about that, “The Linux Experiment” has a great [video](https://www.youtube.com/watch?v=G0che2Az9hw) on the topic. |
 
 ### Collaboration Platforms
 
