@@ -130,6 +130,14 @@ There are many more good options for private mail. Some notable ones are [StartM
 | [RoundCube](https://roundcube.net/) (Web) | This browser-based IMAP client features an application-like UI and has full functionality you would expect from an e-mail client. |
 | [K-9 Mail](https://k9mail.app/) (Android) | It was acquired by Thunderbird and is probably the feature-richest Android e-mail client you can find. It provides all the features you need for secure messaging, including OpenGPG capabilities for E2EE e-mails. |
 
+### Community Platforms
+
+When communicating with big communities of strangers a very specific feature set is required. In recent years Discord has overwhelmingly taken the position of the leader in this specific area. However, there are a bunch of security, and privacy concerns regarding Discord. Basically everything is logged, unencrypted, and your personal data is used for tracking / advertisement reasons. For a more laid out overview you can check [this Reddit post](https://www.reddit.com/r/privacy/comments/rsxeee/you_should_never_use_discord_and_heres_why/). However, it doesn't have to be that way. There are open-source alternatives that respect your privacy.
+
+| Software  | Description |
+|-----------|-------------|
+| [Revolt.Chat](https://revolt.chat/) | Although, still in public beta Revolt.Chat already features an impressive repertoire of features. It is the closest to a Discord alternative you will probably get and has an impressive looking roadmap. It has a much more open approach than Discord, featuring community themes, and plugins without the risk of getting banned for using a modified client. Furthermore, it respects your privacy and collects no personal data, and it even has plans for full E2EE for direct, and group messaging. |
+
 ## Productivity
 
 ### Collaboration Platforms
