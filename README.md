@@ -10,18 +10,7 @@ This is why I created this list of FOSS (Free and Open Source Software) that you
 
 ### Categories
 
-- **[Everyday Software](#everyday-software)**
-  - [Password Managers](#password-managers)
-  - [2FA](#two-factor-authentication)
-  - [Browsers](#browsers)
-- **[Communication](#communication)**
-  - [Instant Messaging](#instant-messaging)
-  - [E-Mail](#e-mail)
-    - [E-Mail Providers](#e-mail-providers)
-    - [E-Mail Clients](#e-mail-clients)
-- **[Productivity](#productivity)**
-  - [Office Suite](#office-suite)
-  - [Collaboration Platforms](#collaboration-platforms)
+[TOC]
 
 ## Everyday Software
 
