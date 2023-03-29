@@ -8,9 +8,20 @@ In our current online world, most of our software choices are dominated by propr
 
 This is why I created this list of FOSS (Free and Open Source Software) that you can use as a replacement for proprietary solutions.
 
-### Categories
+### Table of Content
 
-[TOC]
+- **[Everyday Software](#everyday-software)**
+  - [Password Managers](#password-managers)
+  - [2FA](#two-factor-authentication)
+  - [Browsers](#browsers)
+- **[Communication](#communication)**
+  - [Instant Messaging](#instant-messaging)
+  - [E-Mail](#e-mail)
+    - [E-Mail Providers](#e-mail-providers)
+    - [E-Mail Clients](#e-mail-clients)
+- **[Productivity](#productivity)**
+  - [Office Suite](#office-suite)
+  - [Collaboration Platforms](#collaboration-platforms)
 
 ## Everyday Software
 
