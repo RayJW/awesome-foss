@@ -149,6 +149,8 @@ Everyone needs an office suite occasionally. Software like Microsoft Office, and
 | Software  | Description |
 |-----------|-------------|
 | [LibreOffice](https://www.libreoffice.org/) (Desktop) | This is probably by far the most commonly used Office alternative. It has a ton of features, is open-source, regularly receives new updates, and feels great on every desktop platform. With a bit of tweaks, the compatibility with Microsoft Office works great, and the interface can be made surprisingly similar. For more information about that, “The Linux Experiment” has a great [video](https://www.youtube.com/watch?v=G0che2Az9hw) on the topic. |
+| [ONLYOFFICE](https://www.onlyoffice.com/) (Desktop / Mobile / Web) | This is another office suite which is commonly used among FOSS users. Its looks are very close to Microsoft Office 2013, and it runs on almost all platforms, it has great Microsoft Office compatibility and a lot of features, including real-time collaboration if you have an online document server. |
+| [Collabora Office](https://www.collaboraoffice.com/) (Desktop / Mobile) | Collabora Office is made by Collabora who are among the most active LibreOffice contributors! Their goal is to bring LibreOffice to Web and Mobile and their office suite has a lot of enterprise and government focused features. |
 
 ### Collaboration Platforms
 
