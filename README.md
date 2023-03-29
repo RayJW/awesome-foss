@@ -35,6 +35,7 @@ Password managers are a very critical piece of software in our everyday lives, a
 | [Padloc](https://padloc.app/) | Padloc is another piece of open-source software which features end-to-end encryption and a client for all major platforms and browsers. The most essential features are free, and it has many features aimed at businesses or families in its premium versions. It's also possible to self-host Padloc with the use of Docker. |
 | [Passbolt](https://www.passbolt.com/) | Passbolt is another solution which can be self-hosted or used on their cloud. Its primary use is collaboration work, and it has many convenience features for companies and big teams. |
 | [KeePass](https://keepass.info/) | KeePass is one of the solutions that has been around the longest on this list. It is very well established and there are adaptions for pretty much every platform out there. It has no cloud syncing option, but it is very extensible. For bonus information check [awesome-keepass](https://github.com/lgg/awesome-keepass) made by @lgg. |
+| [pass](https://www.passwordstore.org/) | Pass is the standard Unix password manager which follows the Unix philosophy by keeping every password in encrypted PGP files which are then managed by a Git repo. It has a multitude of clients and implementations, many of which are listed on their website. |
 
 #### Honourable Mentions
 
