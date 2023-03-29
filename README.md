@@ -22,6 +22,13 @@ This is why I created this list of FOSS (Free and Open Source Software) that you
 - **[Productivity](#productivity)**
   - [Office Suite](#office-suite)
   - [Collaboration Platforms](#collaboration-platforms)
+- **[Creativity](#creativity)**
+  - [Photo Editing](#photo-editing)
+  - [Video Editing](#video-editing)
+  - [Digital Art](#digital-art)
+  - [Design and Prototyping](#design-and-prototyping)
+  - [3D Computer Graphics](#3d-computer-graphics)
+    - [Computer-aided Design (CAD)](#computer-aided-design-cad)
 
 ## Everyday Software
 
@@ -102,9 +109,9 @@ While there are many messaging apps out there that claim to be secure, there are
 
 ### E-mail
 
-First things first, e-mail is **not** secure! Email is not a secure form of communication, as it is possible for third parties, including governments, to intercept and read emails. This is particularly true for emails that are transmitted over unencrypted connections.
-The [PRISM surveillance program](https://en.wikipedia.org/wiki/PRISM_(surveillance_program)), run by the National Security Agency (NSA) in the United States, is one example of how governments can access and analyze the email and other electronic communications of individuals.
-While there are ways to secure email and make it more difficult for third parties to intercept messages, such as using end-to-end encryption, it is important to be aware that email is not a completely secure form of communication and to be cautious about the information you share via email.
+First things first, e-mail is **not** secure! E-mail is not a secure form of communication, as it is possible for third parties, including governments, to intercept and read e-mails. This is particularly true for e-mails that are transmitted over unencrypted connections.
+The [PRISM surveillance program](https://en.wikipedia.org/wiki/PRISM_(surveillance_program)), run by the National Security Agency (NSA) in the United States, is one example of how governments can access and analyze the e-mail and other electronic communications of individuals.
+While there are ways to secure e-mail and make it more difficult for third parties to intercept messages, such as using end-to-end encryption, it is important to be aware that e-mail is not a completely secure form of communication and to be cautious about the information you share via e-mail.
 I still provide a list of open-source, E2EE, and somewhat secure e-mail providers that do protect user data. This does not mean that you should rely on e-mail for sensitive information in most cases, though.
 
 #### E-mail Providers
@@ -170,6 +177,59 @@ In light of the enormous amount of [security issues with Zoom](https://www.tomsg
 | [Jitsi Meet](https://jitsi.org/) | Is the open-source video calling app that has it all. Creating an account is optional to use this software offering encrypted and free video calling available on the web, the desktop, and mobile. You are free to use the public, your own self-hosted, [or any other community hosted Jitsi instance](https://jitsi.github.io/handbook/docs/community/community-instances/) for your calls. |
 | [Jami](https://jami.net/) | This is a free and open-source, distributed video calling and screen sharing platform that heavily focuses on security. Jami is peer-to-peer, and features full E2EE including PFS for all your communications. It has apps for all major platforms, including mobile. |
 | [BigBlueButton](https://bigbluebutton.org/) | This pedagogic-centric virtual classroom is ideal for people that are searching for a self-hosted, open-source solution featuring many classroom-like features. It sports features like breakout rooms, and multi-user whiteboards which make online teaching a breeze. |
+
+## Creativity
+
+### Photo Editing
+
+Open-source photo editing software is important for users who want to have more control over their digital creations. This allows users to create unique and personalized workflows that can be tailored to their specific projects. Additionally, open-source photo editing software is often free and can be used by anyone, regardless of their financial resources. This makes it an accessible option for users who cannot afford proprietary software or don't want to be at the grace of exploitative companies like Adobe. Overall, open-source photo editing software empowers users to take control of their creative process and produce high-quality digital content without being limited by the constraints of proprietary software.
+
+| Software  | Description |
+|-----------|-------------|
+| [Darktable](https://www.darktable.org/) | Darktable is an open-source photography workflow application which offers a lighttable to collect your raw images in a database where you can manage them by tagging, rating and much more. On top of that, it offers the darkroom, which gives you all the tools to develop and enhance your raw images. It is a great alternative to Adobe Lightroom and offers virtually unlimited creative freedom. |
+| [GIMP](https://www.gimp.org/) | The GNU Image Manipulation Program (GIMP) is a cross-platform image editor. You can use it for photo editing, drawing and graphics design. One of the main advantages of GIMP is its flexibility and extensibility. Users can create and install plugins and scripts to customize the software and extend its functionality. |
+
+### Video Editing
+
+Open-source video editing software is essential for anyone looking to create, edit, or produce video content without relying on proprietary software. With the rise of social media and online video platforms, video content has become more prevalent than ever before. Open-source video editing software provides users with tools and features to cut, trim, and arrange video footage, add special effects and transitions, and export finished videos in a variety of formats, all while maintaining a commitment to open-source principles. Whether you're a professional videographer or an amateur content creator, open-source video editing software is a must-have tool for bringing your ideas to life on screen while promoting free and open collaboration.
+
+| Software  | Description |
+|-----------|-------------|
+| [Kdenlive](https://kdenlive.org/) | Kdenlive is a fully fletched open-source video editor. It has everything one could wish for including great compatibility with a multitude of audio / video formats, multi-track editing, effects and transitions and much more! |
+| [Olive](https://olivevideoeditor.org/) | Olive is another great choice for a non-linear video editor and it is aiming to provide a fully-featured alternative to professional video editing. They have been hard at work releasing their second major version featuring a full rewrite. |
+
+### Digital Art
+
+Digital art and painting software has revolutionized the way artists create and share their work. With the power of digital tools, artists can create stunning artwork with precision, speed, and flexibility. From painting to drawing to sculpting, digital art software provides artists with an array of customizable brushes, colour palettes, and layer management tools to support their creative workflows. Open-source digital art software in particular allows artists to have greater control over their tools and techniques, while fostering a community of collaboration and innovation.
+
+| Software  | Description |
+|-----------|-------------|
+| [Krita](https://krita.org/en/) | Krita is an open-source digital painting software designed for concept art, texture and matte painters, and illustrations. It offers a range of customizable brushes, colour palettes, and layer management tools to support creative workflows. |
+| [Inkscape](https://inkscape.org/) | Inkscape is a powerful open-source vector graphics editor that allows users to create and edit scalable vector graphics. It supports a variety of file formats, including SVG, PDF, EPS, and AI, and provides users with a range of tools and features for creating and manipulating vector graphics. |
+
+### Design and Prototyping
+
+Design and prototyping is an important step in software development and assists in creating software great for everyone, right in the spirit of open-source. Choosing a solution focusing on open-source makes sure you get great compatibility with other software thanks to a commitment to open standards, and it enables everyone and all teams no matter their resources to create great solutions competing with the big players.
+
+| Software  | Description |
+|-----------|-------------|
+| [Penpot](https://penpot.app/) | Penpot is a free and open-source alternative to Figma. You can self-host it if you want to deploy it locally for your team, and thanks to its many features focused on collaboration, everyone from designers to developers can create great things with Penpot. It is a great example of why we need open-source alternatives because the buyout of Figma has exposed a lot of people whose livelihood depends on their work to predatory practices and pricing of Adobe without a warning. |
+
+### 3D Computer Graphics
+
+3D computer graphics software is essential for anyone looking to create 3D models, animations, and visual effects. From film and TV to video games and product design, 3D computer graphics play a vital role in modern visual media. Open-source 3D computer graphics software provides users with powerful tools and features for modelling, rigging, animation, and rendering, while fostering a community of collaboration and innovation. Whether you're a professional animator or a hobbyist artist, open-source solutions will help you bring your creativity to life, no matter your resources.
+
+| Software  | Description |
+|-----------|-------------|
+| [Blender](https://www.blender.org) | Blender is probably one of the best examples of how open-source software can just be plain better. They have become the de-facto standard in the CG world and put forth an impressive development speed without charging their users or limiting their ability to make profit. |
+
+#### Computer-aided Design (CAD)
+
+| Software  | Description |
+|-----------|-------------|
+| [FreeCAD](https://www.freecad.org/) | FreeCAD is an open-source parametric 3D modeler made to design real-life objects of all sizes. It is designed to support a wide range of uses, including but not limited to product design, mechanical engineering, and architecture. It has a lot of amazing features and people of all skills will feel right at home thanks to its intuitive and modular design. |
+| [LibreCAD](https://librecad.org/) | LibreCAD is another great choice for open-source 2D-CAD work. It can work with DXF, DWG, and SVG files while maintaining a highly customizable user interface with dozens of translations available. |
+| [OpenSCAD](https://openscad.org/) | OpenSCAD is a software for creating solid 3D CAD models. Unlike most other 3D modelling software, it does not focus on the artistic aspects, but instead on the CAD aspects. This is why its features are great for 3D models of machine parts and more. |
 
 ## Contributing
 
