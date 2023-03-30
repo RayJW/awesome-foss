@@ -22,6 +22,8 @@ This is why I created this list of FOSS (Free and Open Source Software) that you
 - **[Productivity](#productivity)**
   - [Office Suite](#office-suite)
   - [Collaboration Platforms](#collaboration-platforms)
+  - [Video Conferencing](#video-conferencing)
+  - [Remote Desktop](#remote-desktop)
 - **[Creativity](#creativity)**
   - [Photo Editing](#photo-editing)
   - [Video Editing](#video-editing)
@@ -179,6 +181,14 @@ In light of the enormous amount of [security issues with Zoom](https://www.tomsg
 | [Jitsi Meet](https://jitsi.org/) | Is the open-source video calling app that has it all. Creating an account is optional to use this software offering encrypted and free video calling available on the web, the desktop, and mobile. You are free to use the public, your own self-hosted, [or any other community hosted Jitsi instance](https://jitsi.github.io/handbook/docs/community/community-instances/) for your calls. |
 | [Jami](https://jami.net/) | This is a free and open-source, distributed video calling and screen sharing platform that heavily focuses on security. Jami is peer-to-peer, and features full E2EE including PFS for all your communications. It has apps for all major platforms, including mobile. |
 | [BigBlueButton](https://bigbluebutton.org/) | This pedagogic-centric virtual classroom is ideal for people that are searching for a self-hosted, open-source solution featuring many classroom-like features. It sports features like breakout rooms, and multi-user whiteboards which make online teaching a breeze. |
+
+### Remote Desktop
+
+Remote Desktop solutions are a great way to help others with problems they can't solve themselves, or simply to control your device while you are not next to it. Even though there are a lot of commercial solutions, the inherent risk of not knowing where essentially everything about your computer, including all the keystrokes you enter and the things you look at go to, is big. That's why I recommend choosing an open-source solution to make sure your data stays with you.
+
+| Software  | Description |
+|-----------|-------------|
+| [RustDesk](https://rustdesk.com/) | RustDesk is an amazing open-source remote desktop software because it works straight out of the box but still gives you the option to choose your own rendezvous server, including a self-hosted one that they offer for download, or you can even write your own one because the protocol is fully open-source like everything else! |
 
 ## Creativity
 
