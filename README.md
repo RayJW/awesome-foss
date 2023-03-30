@@ -29,6 +29,8 @@ This is why I created this list of FOSS (Free and Open Source Software) that you
   - [Design and Prototyping](#design-and-prototyping)
   - [3D Computer Graphics](#3d-computer-graphics)
     - [Computer-aided Design (CAD)](#computer-aided-design-cad)
+- **[Development](#development)**
+  - [IDEs](#ides)
 
 ## Everyday Software
 
@@ -230,6 +232,20 @@ Design and prototyping is an important step in software development and assists 
 | [FreeCAD](https://www.freecad.org/) | FreeCAD is an open-source parametric 3D modeler made to design real-life objects of all sizes. It is designed to support a wide range of uses, including but not limited to product design, mechanical engineering, and architecture. It has a lot of amazing features and people of all skills will feel right at home thanks to its intuitive and modular design. |
 | [LibreCAD](https://librecad.org/) | LibreCAD is another great choice for open-source 2D-CAD work. It can work with DXF, DWG, and SVG files while maintaining a highly customizable user interface with dozens of translations available. |
 | [OpenSCAD](https://openscad.org/) | OpenSCAD is a software for creating solid 3D CAD models. Unlike most other 3D modelling software, it does not focus on the artistic aspects, but instead on the CAD aspects. This is why its features are great for 3D models of machine parts and more. |
+
+## Development
+
+As software development continues to shape our world, it's increasingly important to ensure that the tools we use to create that software are trustworthy, secure, and transparent. Open-source not only encourages collaboration and innovation, but it also allows developers to ensure that the software they use meets their needs and is free from hidden backdoors or malicious code. By using open-source development tools, developers can have greater control over their development workflows and ensure that the software they create is secure, reliable, and respects user privacy while also staying safe themselves.
+
+### IDEs
+
+IDEs is what developers use to create code. People spend a considerable amount of time creating things they love in these text editors. For that reason it is important that they are modular so they can fit everyones needs and more importantly, so they don't spy on you. Luckily there a lot of great options out there!
+
+| Software  | Description |
+|-----------|-------------|
+| [VSCodium](https://vscodium.com/) | Everyone probably knows VS Code. However, not everyone knows that it is made by Microsoft. That means it includes proprietary third party trackers and telemetry, which not everyone might like. VSCodium is the fully open-source alternative, which removes everything that is not open-source, including all trackers from VS Code. |
+| [Pulsar](https://pulsar-edit.dev/) | Atom was another great option in the IDE space. However, ever since Microsoft bought GitHub everyone probably expected them to stop development eventually. Out of the ashes of Atom rose Pulsar, a fully open-source community drive fork which aims to be everything that Atom was and more. This might be your option if you don't like the idea of VS Code being made by Microsoft. |
+| [Lapce](https://lapce.dev/) | In case all the Chromium based editors are not your thing, Lapce is an amazing alternative. It is written in Rust and thus compiles to be a native option with GPU acceleration and low resource use. On top of that, their native Vim like editing and WASI plugin system means you can do whatever you want with it. |
 
 ## Contributing
 
