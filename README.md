@@ -242,6 +242,7 @@ Design and prototyping is an important step in software development and assists 
 | [FreeCAD](https://www.freecad.org/) | FreeCAD is an open-source parametric 3D modeler made to design real-life objects of all sizes. It is designed to support a wide range of uses, including but not limited to product design, mechanical engineering, and architecture. It has a lot of amazing features and people of all skills will feel right at home thanks to its intuitive and modular design. |
 | [LibreCAD](https://librecad.org/) | LibreCAD is another great choice for open-source 2D-CAD work. It can work with DXF, DWG, and SVG files while maintaining a highly customizable user interface with dozens of translations available. |
 | [OpenSCAD](https://openscad.org/) | OpenSCAD is a software for creating solid 3D CAD models. Unlike most other 3D modelling software, it does not focus on the artistic aspects, but instead on the CAD aspects. This is why its features are great for 3D models of machine parts and more. |
+| [KiCAD](https://www.kicad.org/) | KiCad is an open-source electronics design automation suite. It is designed to support the user in PCB design, it has a very capable schematic, component and layout editor. In addition to that it has a useful 3d Viewer to integrate the electronics into a mechanical design.
 
 ## Development
 
