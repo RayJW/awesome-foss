@@ -45,6 +45,7 @@ This is why I created this list of FOSS (Free and Open Source Software) that you
       - [Computer-aided Design (CAD)](#computer-aided-design-cad)
   - [Media](#media)
     - [Media Players](#media-players)
+    - [Podcatchers (Podcast clients)](#podcatchers-podcast-clients)
   - [Development](#development)
     - [IDEs](#ides)
   - [Contributing](#contributing)
@@ -270,6 +271,15 @@ From watching movies over binging series to listening to your favorite album - f
 |-----------|-------------|
 | [MPV](https://mpv.io/) | MPV is a media player software primarily used through a Command-line interface, supporting a wide range of media formats. With its many configuration options and keyboard based operation, it was designed with more advanced users in mind, but the numerous GUIs and the online documentation allow beginners to enjoy the tool too. |
 | [VLC](https://www.videolan.org/vlc/index.html) | VLC is another media player supporting almost any format imaginable. It has a user-friendly interface and can be used by anyone easily. It doesn't quite offer the same ability to customize every degree of your player as MPV, but even for advanced users, it is still a great choice. |
+
+### Podcatchers (Podcast clients)
+
+Traditionally, podcasts are distributed through an RSS feed, to which podcast clients (also called podcatchers) can subscribe. It would only make sense to pair this distributed and open way to share media with a client that is open as well, right?
+
+| Software  | Description |
+|-----------|-------------|
+| [AntennaPod](https://antennapod.org/) (Android) | Delivered over the Google Play Store and F-Droid, AntennaPod is a feature-rich podcatcher that delivers everything a podcast listener desires. |
+| [Kasts](https://apps.kde.org/kasts/) (Desktop)| Developed by the KDE community, Kasts is a neat solution for listening podcasts on your desktop. Nothing more, nothing less. |
 
 ## Development
 
