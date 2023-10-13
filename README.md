@@ -43,6 +43,8 @@ This is why I created this list of FOSS (Free and Open Source Software) that you
     - [Design and Prototyping](#design-and-prototyping)
     - [3D Computer Graphics](#3d-computer-graphics)
       - [Computer-aided Design (CAD)](#computer-aided-design-cad)
+  - [Media](#media)
+    - [Media Players](#media-players)
   - [Development](#development)
     - [IDEs](#ides)
   - [Contributing](#contributing)
@@ -257,6 +259,17 @@ Design and prototyping is an important step in software development and assists 
 | [LibreCAD](https://librecad.org/) | LibreCAD is another great choice for open-source 2D-CAD work. It can work with DXF, DWG, and SVG files while maintaining a highly customizable user interface with dozens of translations available. |
 | [OpenSCAD](https://openscad.org/) | OpenSCAD is a software for creating solid 3D CAD models. Unlike most other 3D modelling software, it does not focus on the artistic aspects, but instead on the CAD aspects. This is why its features are great for 3D models of machine parts and more. |
 | [KiCAD](https://www.kicad.org/) | KiCad is an open-source electronics design automation suite. It is designed to support the user in PCB design, it has a very capable schematic, component and layout editor. In addition to that it has a useful 3d Viewer to integrate the electronics into a mechanical design. |
+
+## Media
+
+### Media Players
+
+From watching movies over binging series to listening to your favorite album - for all those things you need a good and reliable media player. Because of their broad support of different audio & video formats, FOSS media players are highly regarded by consumers regardless of the genre.
+
+| Software  | Description |
+|-----------|-------------|
+| [MPV](https://mpv.io/) | MPV is a media player software primarily used through a Command-line interface, supporting a wide range of media formats. With its many configuration options and keyboard based operation, it was designed with more advanced users in mind, but the numerous GUIs and the online documentation allow beginners to enjoy the tool too. |
+| [VLC](https://www.videolan.org/vlc/index.html) | VLC is another media player supporting almost any format imaginable. It has a user-friendly interface and can be used by anyone easily. It doesn't quite offer the same ability to customize every degree of your player as MPV, but even for advanced users, it is still a great choice. |
 
 ## Development
 
