@@ -2,6 +2,8 @@
 
 Welcome to my open-source list! This list is a collection of links and information to open-source alternatives to proprietary software. My goal is to provide a resource for users to find and learn about open-source options for a variety of different applications and tools. I hope that this list will be a useful resource for anyone interested in open-source software.
 
+[Jump to the content!](#everyday-software)
+
 ## Intro
 
 In our current online world, most of our software choices are dominated by proprietary closed-source projects with the goal of locking users into their ecosystems and collecting as much user data as possible. This data can then be sold to advertisers to better target ads to certain groups. Additionally, this can create security issues because vulnerabilities are harder to find and diagnose for the community. Besides, if any of these tools were to shut down, all data and workflows revolving around them could potentially break or be lost on the next day.
