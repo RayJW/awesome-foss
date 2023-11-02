@@ -82,7 +82,7 @@ Two-factor authentication has gained a lot of attention in recent years. However
 | [Aegis Authenticator](https://getaegis.app/) (Android) | Free, secure and open-source app for Android. Offers a backup / restore feature and has a customizable UI. |
 | [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) (Android) | Free and open-source 2FA app for Android featuring encrypted backups, icons, categories and a many options for customization. Also features a Wear OS companion app. |
 | [Tofu](https://www.tofuauth.com/) (iOS) | Tofu is an easy-to-use 2FA app designed specifically for iOS. |
-| [Raivo](https://raivo-otp.com/) (iOS / MacOS) | Raivo OTP is a beautiful 2FA app with icon support that is natively made for iOS and macOS with on- and offline backups. |
+| [2FAS](https://2fas.com/) (iOS / Android / Browser) | This beautiful 2FA app is fully open-source and has privacy in mind at every step. It is available for both iOS and Android, and it also features a browser companion. |
 | [Authenticator](https://mattrubin.me/authenticator/) (iOS) | Authenticator is a simple, and open-source authenticator app for iOS that never connects to the internet. |
 | [Authenticator](https://authenticator.cc/) (Browser) | The Authenticator browser extension adds 2FA support right into your browser with both time, and HMAC-Based OTPs. |
 
