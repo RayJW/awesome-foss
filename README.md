@@ -132,7 +132,7 @@ While there are many messaging apps out there that claim to be secure, there are
 
 ### E-mail
 
-First things first, e-mail is **not** secure! E-mail is not a secure form of communication, as it is possible for third parties, including governments, to intercept and read e-mails. This is particularly true for e-mails that are transmitted over unencrypted connections.
+First things first, e-mail is **not** secure! E-mail is a flawed form of communication, as it is possible for third parties, including governments, to intercept and read e-mails. This is particularly true for e-mails that are transmitted over unencrypted connections.
 The [PRISM surveillance program](https://en.wikipedia.org/wiki/PRISM_(surveillance_program)), run by the National Security Agency (NSA) in the United States, is one example of how governments can access and analyze the e-mail and other electronic communications of individuals.
 While there are ways to secure e-mail and make it more difficult for third parties to intercept messages, such as using end-to-end encryption, it is important to be aware that e-mail is not a completely secure form of communication and to be cautious about the information you share via e-mail.
 I still provide a list of open-source, E2EE, and somewhat secure e-mail providers that do protect user data. This does not mean that you should rely on e-mail for sensitive information in most cases, though.
@@ -294,7 +294,7 @@ IDEs is what developers use to create code. People spend a considerable amount o
 | Software  | Description |
 |-----------|-------------|
 | [VSCodium](https://vscodium.com/) | Everyone probably knows VS Code. However, not everyone knows that it is made by Microsoft. That means it includes proprietary third party trackers and telemetry, which not everyone might like. VSCodium is the fully open-source alternative, which removes everything that is not open-source, including all trackers from VS Code. |
-| [Pulsar](https://pulsar-edit.dev/) | Atom was another great option in the IDE space. However, ever since Microsoft bought GitHub everyone probably expected them to stop development eventually. Out of the ashes of Atom rose Pulsar, a fully open-source community drive fork which aims to be everything that Atom was and more. This might be your option if you don't like the idea of VS Code being made by Microsoft. |
+| [Pulsar](https://pulsar-edit.dev/) | Atom was another great option in the IDE space. But, ever since Microsoft bought GitHub everyone probably expected them to stop development eventually. Out of the ashes of Atom rose Pulsar, a fully open-source community driven fork which aims to be everything that Atom was and more. This might be your option if you don't like the idea of VS Code being made by Microsoft. |
 | [Lapce](https://lapce.dev/) | In case all the Chromium based editors are not your thing, Lapce is an amazing alternative. It is written in Rust and thus compiles to be a native option with GPU acceleration and low resource use. On top of that, their native Vim like editing and WASI plugin system means you can do whatever you want with it. |
 
 ## Contributing
