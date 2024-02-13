@@ -147,7 +147,7 @@ I still provide a list of open-source, E2EE, and somewhat secure e-mail provider
 
 ##### Honourable Mentions
 
-There are many more good options for private mail. Some notable ones are [StartMail](https://www.startmail.com/en/), [HushMail](https://www.hushmail.com/), [Skiff](https://skiff.com/), and [Disroot](https://disroot.org/en/services/email).
+There are many more good options for private mail. Some notable ones are [StartMail](https://www.startmail.com/en/), [HushMail](https://www.hushmail.com/), and [Disroot](https://disroot.org/en/services/email).
 
 ##### Word of Caution
 
