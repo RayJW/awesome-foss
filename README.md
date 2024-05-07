@@ -49,6 +49,7 @@ This is why I created this list of FOSS (Free and Open Source Software) that you
     - [Podcatchers (Podcast Clients)](#podcatchers-podcast-clients)
   - [Development](#development)
     - [Code Editors](#code-editors)
+    - [Game Development](#game-development)
   - [Contributing](#contributing)
   - [License](#license)
 
@@ -298,6 +299,16 @@ Code editors are what most developers use to write code. People spend a consider
 | [Pulsar](https://pulsar-edit.dev) | Atom was another great option in the IDE space. But, ever since Microsoft bought GitHub everyone probably expected them to stop development eventually. Out of the ashes of Atom rose Pulsar, a fully open-source community driven fork which aims to be everything that Atom was and more. This might be your option if you don't like the idea of VS Code being made by Microsoft. |
 | [Lapce](https://lapce.dev) | In case all the Chromium based editors are not your thing, Lapce is an amazing alternative. It is written in Rust and thus compiles to be a native option with GPU acceleration and low resource use. On top of that, their native Vim like editing and WASI plugin system means you can do whatever you want with it. |
 | [Zed](https://zed.dev) | Zed is a very new contender since they recently turned open-source from a previously proprietary development model. Their headline features include the incredible performance, thanks to the fact that they built their editor from the ground up with Rust. Also, the focus on their “multiplayer” functionality makes it very easy for teams to work together on a code base. While they are currently only stable on macOS, Windows and Linux support is coming together quite nicely and should be available rather sooner than later. |
+
+### Game Development
+
+The gaming industry is huge, and many people don't only earn a living by creating games but also spend numerous hours enjoying these words carefully curated by creative minds. Cases like the various Unity controversies have shown, that using an open-source game engine can be very important, especially for smaller projects, to ensure that their survival won't suddenly be destroyed any day.
+
+| Software | Description |
+|----------|-------------|
+| [Godot](https://godotengine.org) | Godot was probably the engine that earned the most fame in the light of the latest Unity controversies. It is an engine used by many big game developers to create great 2D & 3D games across all major platforms. It's impossible to even attempt listing all the features Godot has, if there is a game you can imagine, you can most certainly create it with Godot. |
+| [Defold](https://defold.com) | Defold is another great option for creating either 2D & 3D games. It offers a graphical editor, just like Godot, and also offers the functionality to publish across all major platforms. |
+| [GDevelop](https://gdevelop.io) | This is a highly regarded no-code game engine with the goal to enable creation without having to learn programming first. They have a free, open-source plan and offer even more options to develop games in their premium plans, including the ability to create games on your phone. |
 
 ## Contributing
 
