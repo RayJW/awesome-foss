@@ -19,17 +19,16 @@ This is why I created this list of FOSS (Free and Open Source Software) that you
     - [Password Managers](#password-managers)
       - [Honourable Mentions](#honourable-mentions)
     - [Two-Factor Authentication](#two-factor-authentication)
-      - [Honourable Mentions](#honourable-mentions-1)
     - [Browsers](#browsers)
       - [Chromium Commentary](#chromium-commentary)
-      - [Honourable Mentions](#honourable-mentions-2)
+      - [Honourable Mentions](#honourable-mentions-1)
   - [Communication](#communication)
     - [Instant Messaging](#instant-messaging)
-      - [Honourable Mentions](#honourable-mentions-3)
+      - [Honourable Mentions](#honourable-mentions-2)
       - [Word of Caution](#word-of-caution)
     - [E-mail](#e-mail)
       - [E-mail Providers](#e-mail-providers)
-        - [Honourable Mentions](#honourable-mentions-4)
+        - [Honourable Mentions](#honourable-mentions-3)
         - [Word of Caution](#word-of-caution-1)
       - [E-mail Clients](#e-mail-clients)
     - [Community Platforms](#community-platforms)
@@ -77,7 +76,6 @@ Two-factor authentication has gained a lot of attention in recent years. However
 
 | Software  | Description |
 |-----------|-------------|
-| [WinAuth](https://winauth.github.io/winauth) (Windows) | WinAuth is a portable 2FA solution that supports counter and time-based authenticators. However development has stopped in 2017. |
 | [Authenticator](https://gitlab.gnome.org/World/Authenticator) (Linux) | Authenticator is a rust based open-source solution for Linux with a beautiful UI and many features. |
 | [Aegis Authenticator](https://getaegis.app) (Android) | Free, secure and open-source app for Android. Offers a backup / restore feature and has a customizable UI. |
 | [Authenticator Pro](https://github.com/jamie-mh/AuthenticatorPro) (Android) | Free and open-source 2FA app for Android featuring encrypted backups, icons, categories and a many options for customization. Also features a Wear OS companion app. |
@@ -85,10 +83,8 @@ Two-factor authentication has gained a lot of attention in recent years. However
 | [2FAS](https://2fas.com) (iOS / Android / Browser) | This beautiful 2FA app is fully open-source and has privacy in mind at every step. It is available for both iOS and Android, and it also features a browser companion. |
 | [Authenticator](https://mattrubin.me/authenticator) (iOS) | Authenticator is a simple, and open-source authenticator app for iOS that never connects to the internet. |
 | [Authenticator](https://authenticator.cc) (Browser) | The Authenticator browser extension adds 2FA support right into your browser with both time, and HMAC-Based OTPs. |
-
-#### Honourable Mentions
-
-[Authy](https://authy.com) (**proprietary**) is a very widely used 2FA application because of its sync capabilities. I, however, discourage the use of Authy as it is completely closed-source, and it is not possible to extract your seeds, which means you can **not** easily switch to another application.
+| [Ente Auth](https://github.com/ente-io/ente/blob/main/auth/README.md) (Cross-platform) | Ente Auth is an offering by the open-source photo storage provider Ente. It offers everything one could need, cross-platform syncing with apps for iOS, Android, Windows, macOS, and Linux. They offer an option to import and export your data, your data is kept safe since everything is end-to-end encrypted. |
+| [Bitwarden Authenticator](https://bitwarden.com/download/#bitwarden-authenticator-mobile) (iOS / Android) | This is a relatively new offering by the highly trusted team behind Bitwarden. While they already offered the option to store 2FA codes inside their password manager, this now provides you with the option to keep data separate from your passwords. |
 
 ### Browsers
 
