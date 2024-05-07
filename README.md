@@ -48,7 +48,7 @@ This is why I created this list of FOSS (Free and Open Source Software) that you
     - [Media Players](#media-players)
     - [Podcatchers (Podcast Clients)](#podcatchers-podcast-clients)
   - [Development](#development)
-    - [IDEs](#ides)
+    - [Code Editors](#code-editors)
   - [Contributing](#contributing)
   - [License](#license)
 
@@ -255,6 +255,8 @@ Design and prototyping is an important step in software development and assists 
 
 #### Computer-aided Design (CAD)
 
+Open-source CAD software offers cost savings, customization, and transparency advantages over proprietary options. Additionally, utilizing open-source solutions enables designers to maintain control over their IP and data since they have full access to the source code, ensuring data sovereignty and privacy. This can be especially advantageous when using CAD software in a big environment, perhaps designing future intellectual property.
+
 | Software  | Description |
 |-----------|-------------|
 | [FreeCAD](https://www.freecad.org) | FreeCAD is an open-source parametric 3D modeler made to design real-life objects of all sizes. It is designed to support a wide range of uses, including but not limited to product design, mechanical engineering, and architecture. It has a lot of amazing features and people of all skills will feel right at home thanks to its intuitive and modular design. |
@@ -266,7 +268,7 @@ Design and prototyping is an important step in software development and assists 
 
 ### Media Players
 
-From watching movies over binging series to listening to your favorite album - for all those things you need a good and reliable media player. Because of their broad support of different audio & video formats, FOSS media players are highly regarded by consumers regardless of the genre.
+From watching movies over binging series to listening to your favourite album — for all those things, you need a good and reliable media player. Because of their broad support of different audio & video formats, FOSS media players are highly regarded by consumers regardless of the genre.
 
 | Software  | Description |
 |-----------|-------------|
@@ -286,9 +288,9 @@ Traditionally, podcasts are distributed through an RSS feed, to which podcast cl
 
 As software development continues to shape our world, it's increasingly important to ensure that the tools we use to create that software are trustworthy, secure, and transparent. Open-source not only encourages collaboration and innovation, but it also allows developers to ensure that the software they use meets their needs and is free from hidden backdoors or malicious code. By using open-source development tools, developers can have greater control over their development workflows and ensure that the software they create is secure, reliable, and respects user privacy while also staying safe themselves.
 
-### IDEs
+### Code Editors
 
-IDEs is what developers use to create code. People spend a considerable amount of time creating things they love in these text editors. For that reason it is important that they are modular so they can fit everyones needs and more importantly, so they don't spy on you. Luckily there a lot of great options out there!
+Code editors are what most developers use to write code. People spend a considerable amount of time creating things they love in these text editors. For that reason, it is important that they are open-source and modular, so they can fit everyone's needs and, more importantly, so you get the final decision about your creations. Luckily, there are a lot of great options out there!
 
 | Software  | Description |
 |-----------|-------------|
