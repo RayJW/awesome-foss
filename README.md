@@ -235,6 +235,7 @@ Digital art and painting software has revolutionized the way artists create and 
 |-----------|-------------|
 | [Krita](https://krita.org) | Krita is an open-source digital painting software designed for concept art, texture and matte painters, and illustrations. It offers a range of customizable brushes, colour palettes, and layer management tools to support creative workflows. |
 | [Inkscape](https://inkscape.org) | Inkscape is a powerful open-source vector graphics editor that allows users to create and edit scalable vector graphics. It supports a variety of file formats, including SVG, PDF, EPS, and AI, and provides users with a range of tools and features for creating and manipulating vector graphics. |
+| [Pinta](https://www.pinta-project.com/) | While perhaps a less sophisticated than the other options mentioned, Pinta is a quite powerful option with the goal to stay intuitive and easy to use. It works on basically all desktop OSes and offers almost all the functionality needed for basic image edits and drawing. |
 
 ### Design and Prototyping
 
