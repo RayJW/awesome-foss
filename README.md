@@ -1,14 +1,25 @@
 # Awesome FOSS
 
-Welcome to my open-source list! This list is a collection of links and information to open-source alternatives to proprietary software. My goal is to provide a resource for users to find and learn about open-source options for a variety of different applications and tools. I hope that this list will be a useful resource for anyone interested in open-source software.
+Welcome to my open-source list! This list is a collection of links and information
+to open-source alternatives to proprietary software. My goal is to provide a resource
+for users to find and learn about open-source options for a variety of different
+applications and tools. I hope that this list will be a useful resource for anyone
+interested in open-source software.
 
 [Jump to the content!](#everyday-software)
 
 ## Intro
 
-In our current online world, most of our software choices are dominated by proprietary closed-source projects with the goal of locking users into their ecosystems and collecting as much user data as possible. This data can then be sold to advertisers to better target ads to certain groups. Additionally, this can create security issues because vulnerabilities are harder to find and diagnose for the community. Besides, if any of these tools were to shut down, all data and workflows revolving around them could potentially break or be lost on the next day.
+In our current online world, most of our software choices are dominated by proprietary
+closed-source projects with the goal of locking users into their ecosystems and collecting
+as much user data as possible. This data can then be sold to advertisers to better
+target ads to certain groups. Additionally, this can create security issues
+because vulnerabilities are harder to find and diagnose for the community.
+Besides, if any of these tools were to shut down, all data and workflows revolving
+around them could potentially break or be lost on the next day.
 
-This is why I created this list of FOSS (Free and Open Source Software) that you can use as a replacement for proprietary solutions.
+This is why I created this list of FOSS (Free and Open Source Software)
+that you can use as a replacement for proprietary solutions.
 
 ### Table of Content
 
@@ -57,7 +68,14 @@ This is why I created this list of FOSS (Free and Open Source Software) that you
 
 ### Password Managers
 
-Password managers are a very critical piece of software in our everyday lives, and everyone should use one. I would argue that using a FOSS password manager is very critical as it contains close to your whole digital identity and therefore represents a single point of failure for most of us. Using a well established open-source solution ensures that thousands of eyes have audited the source code and thoroughly searched for security vulnerabilities. It also gives the community the possibility to maintain an abandoned password manager until everyone has had the chance of moving away if a company behind an open-source password manager should ever stop operations.
+Password managers are a very critical piece of software in our everyday lives,
+and everyone should use one. I would argue that using a FOSS password manager is
+very critical as it contains close to your whole digital identity and therefore represents
+a single point of failure for most of us. Using a well established open-source solution
+ensures that thousands of eyes have audited the source code and thoroughly searched
+for security vulnerabilities. It also gives the community the possibility to maintain
+an abandoned password manager until everyone has had the chance of moving away if
+a company behind an open-source password manager should ever stop operations.
 
 | Software  | Description |
 |-----------|-------------|
@@ -69,11 +87,18 @@ Password managers are a very critical piece of software in our everyday lives, a
 
 #### Honourable Mentions
 
-- [Passwork](https://passwork.pro) is another password manager option from Finland. It is primarily aimed at collaboration use in companies or teams. It is however on the pricier side and does not have a free version. The source code is also only auditable by customers.
+- [Passwork](https://passwork.pro) is another password manager option from Finland.
+  It is primarily aimed at collaboration use in companies or teams. It is however
+  on the pricier side and does not have a free version. The source code is also
+  only auditable by customers.
 
 ### Two-Factor Authentication
 
-Two-factor authentication has gained a lot of attention in recent years. However, not everyone is still using this critical security measure to ensure your accounts stay safe. It is important to use a solution that offers the exporting and importing of keys to make sure one doesn't lose account access in case of device failure / loss.
+Two-factor authentication has gained a lot of attention in recent years.
+However, many people still do not use this critical security measure to ensure
+their accounts stay safe. It is important to use a solution that offers the
+exporting and importing of keys to make sure one doesn't lose account access in
+case of device failure or loss.
 
 | Software  | Description |
 |-----------|-------------|
@@ -89,7 +114,13 @@ Two-factor authentication has gained a lot of attention in recent years. However
 
 ### Browsers
 
-Browsers are one of the most important tools of our daily life. They are also a huge privacy and security threat since we use them to interface with all sorts of untrusted third-party websites. Since many modern applications are switching to the easier web app solution, they are also becoming increasingly influential as we started using browsers for many private things, e.g. e-mail. Thus, it is very important to use a secure and private option to protect yourself from the many unknown dangers of the open web.
+Browsers are one of the most important tools of our daily life.
+They are also a huge privacy and security threat since we use them to interface
+with all sorts of untrusted third-party websites. Since many modern applications
+are switching to the easier web app solution, they are also becoming increasingly
+influential as we started using browsers for many private things, e.g. e-mail.
+Thus, it is very important to use a secure and private option to protect yourself
+from the many unknown dangers of the open web.
 
 | Software  | Description |
 |-----------|-------------|
@@ -100,19 +131,40 @@ Browsers are one of the most important tools of our daily life. They are also a 
 
 #### Chromium Commentary
 
-Google has shown time and time again that they are willing to abuse their browser monopoly to push technologies and features against the user's best interest. E.g. MV3 nerfing ad-blockers, killing JPEG XL support to push its own inferior WebP, and tracking users with proprietary Chromium features while also killing any competition by disabling cookies. While some of those things are still in progress, I cannot put any Chromium-based browsers in the superior options as currently no fork has shown the capabilities / resources necessary to create a Chromium fork without the controversies. For more info, check the [Contra Chrome Comic](https://contrachrome.com).
+Google has shown time and time again that they are willing to abuse their browser
+monopoly to push technologies and features against the user's best interest.
+E.g. MV3 nerfed ad-blockers, killing JPEG XL support to push its own inferior WebP,
+and tracking users with proprietary Chromium features while also killing any competition
+by disabling cookies. While some of those things are still in progress, I cannot
+put any Chromium-based browsers in the superior options as currently no fork has
+shown the capabilities or resources necessary to create a Chromium fork without
+the controversies. For more info, check the [Contra Chrome Comic](https://contrachrome.com).
 
 #### Honourable Mentions
 
-[Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) is the only option I can somewhat recommend, as it is a Chromium fork that completely removed all proprietary Google integration stuff and greatly increases your privacy.
+[Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium)
+is the only option I can somewhat recommend, as it is a Chromium fork that completely
+removes all proprietary Google integration stuff and greatly increases your privacy.
 
-[Brave Browser](https://brave.com) is another option. However, there have been a few controversies surrounding it, e.g. it started manipulating links by adding referral codes. This is a tremendous break of trust as you, the user, should decide what links you want to visit and not your browser. Finally, it's also still Chromium-based, thus vulnerable to all those issues I talked about above. This is why I can't really recommend using Brave.
+[Brave Browser](https://brave.com) is another option. However, there have been a
+few controversies surrounding it, e.g. it started manipulating links by adding
+referral codes. This is a tremendous break of trust as you, the user,
+should decide what links you want to visit and not your browser.
+Finally, it's also still Chromium-based, thus vulnerable to all those issues
+mentioned above. This is why I can't really recommend using Brave.
 
 ## Communication
 
 ### Instant Messaging
 
-Instant messaging has become the main way we communicate these days. Although the space has been dominated by WhatsApp and SMS for many years, it is time to end this dominance. In recent years, it has become increasingly clear, that it is time to start using encrypted messaging. In light of the many data leaks and spying scandals, people have come to realize that messages contain our thoughts, our friendships, and much more. Thus, it is important to use a messenger supporting end-to-end encryption with transparent business practices.
+Instant messaging has become the main way we communicate these days.
+Although the space has been dominated by WhatsApp and SMS for many years, it is
+time to end this dominance. In recent years, it has become increasingly clear,
+that using encrypted messaging is crucial to protect all users freedom and safety.
+In light of the many data leaks and spying scandals, people have come to realize
+that messages contain our thoughts, our friendships, and much more.
+Thus, it is important to use a messenger supporting end-to-end encryption with
+transparent business practices.
 
 | Software  | Description |
 |-----------|-------------|
@@ -127,14 +179,27 @@ Instant messaging has become the main way we communicate these days. Although th
 
 #### Word of Caution
 
-While there are many messaging apps out there that claim to be secure, there are many options that do not provide perfect security and / or privacy. **I would not trust these!** A few examples are Telegram, Threema, Silent Phone, and Viber. These should not be used to communicate personal data as they have flaws, compromising their integrity.
+While there are many messaging apps out there that claim to be secure, there are
+many options that do not provide perfect security and / or privacy.
+**I would not trust these!** A few examples are Telegram, Threema, Silent Phone,
+and Viber. These should not be used to communicate personal data as they have flaws,
+compromising their integrity.
 
 ### E-mail
 
-First things first, e-mail is **not** secure! E-mail is a flawed form of communication, as it is possible for third parties, including governments, to intercept and read e-mails. This is particularly true for e-mails that are transmitted over unencrypted connections.
-The [PRISM surveillance program](https://en.wikipedia.org/wiki/PRISM_(surveillance_program)), run by the National Security Agency (NSA) in the United States, is one example of how governments can access and analyze the e-mail and other electronic communications of individuals.
-While there are ways to secure e-mail and make it more difficult for third parties to intercept messages, such as using end-to-end encryption, it is important to be aware that e-mail is not a completely secure form of communication. Be cautious about the information you share via e-mail!
-I still provide a list of open-source, E2EE, and somewhat secure e-mail providers that do protect user data. This does not mean that you should rely on e-mail for sensitive information in most cases, though.
+First things first, e-mail is **not** secure! E-mail is a flawed form of communication,
+as it is possible for third parties, including governments, to intercept
+and read e-mails. This is particularly true for e-mails that are transmitted over
+unencrypted connections. The [PRISM surveillance program](https://en.wikipedia.org/wiki/PRISM_(surveillance_program)),
+run by the National Security Agency (NSA) in the United States, is one example
+of how governments can access and analyse the e-mail and other electronic
+communications of individuals. While there are ways to secure e-mail and make it
+more difficult for third parties to intercept messages, such as using end-to-end
+encryption, it is important to be aware that e-mail is not a completely secure
+form of communication. Be cautious about the information you share via e-mail!
+I still provide a list of open-source, E2EE, and somewhat secure e-mail providers
+that do protect user data. This does not mean that you should rely on e-mail for
+sensitive information in most cases, though.
 
 #### E-mail Providers
 
@@ -146,12 +211,16 @@ I still provide a list of open-source, E2EE, and somewhat secure e-mail provider
 
 ##### Honourable Mentions
 
-There are many more good options for private e-mail. Some notable ones are [StartMail](https://www.startmail.com), [HushMail](https://www.hushmail.com), and [Disroot](https://disroot.org/services/email).
+There are many more good options for private e-mail. Some notable ones are [StartMail](https://www.startmail.com),
+[HushMail](https://www.hushmail.com), and [Disroot](https://disroot.org/services/email).
 
 ##### Word of Caution
 
-- OpenPGP does not offer Perfect Forward Secrecy (PFS), since I disqualified instant messengers not supporting PFS, I also have to mention that here. This means that if the private key ever leaks, all previous data can easily be decrypted.
-- Even when using end-to-end encrypted e-mail, not all information is encrypted. So, metadata will still inevitably be leaked.
+- OpenPGP does not offer Perfect Forward Secrecy (PFS), since I disqualified
+  instant messengers that don't support PFS, I also have to mention that here. This
+  means that if the private key ever leaks, all previous data can easily be decrypted.
+- Even when using end-to-end encrypted e-mail, not all information is encrypted.
+  So, metadata will still inevitably be leaked.
 
 #### E-mail Clients
 
@@ -163,7 +232,13 @@ There are many more good options for private e-mail. Some notable ones are [Star
 
 ### Community Platforms
 
-When communicating with big communities of strangers a very specific feature set is required. In recent years Discord has overwhelmingly taken the position of the leader in this specific area. However, there are a bunch of security, and privacy concerns regarding Discord. Basically everything is logged, unencrypted, and your personal data is used for tracking / advertisement reasons. For a more laid out overview you can check [this Reddit post](https://www.reddit.com/r/privacy/comments/rsxeee/you_should_never_use_discord_and_heres_why). However, it doesn't have to be that way. There are open-source alternatives that respect your privacy.
+When communicating with big communities of strangers, a very specific feature
+set is required. In recent years, Discord has overwhelmingly taken the position
+of the leader in this specific area. However, there are a bunch of security,
+and privacy concerns regarding Discord. Basically everything is logged, unencrypted,
+and your personal data is used for tracking / advertisement reasons.
+For a more laid out overview, you can check this Reddit post. However, it doesn't
+have to be that way. There are open-source alternatives that respect your privacy.
 
 | Software  | Description |
 |-----------|-------------|
@@ -173,7 +248,15 @@ When communicating with big communities of strangers a very specific feature set
 
 ### Office Suite
 
-Everyone needs an office suite occasionally. Software like Microsoft Office, and Google Docs have become indispensable in our world. However, there is no reason why such important software should be hidden behind subscriptions, paywalls, and data hoarding providers. Now the time better than ever to switch over to a solution supporting open standards and protecting your data at no cost! This ensures good interoperability, which is evermore critical in a world where people need to share documents to many recipients on a very frequent basis. Especially as many schools / governments recently decided that cloud office solutions are unfit for sensitive data like that of children.
+Everyone needs an office suite occasionally. Software like Microsoft Office,
+and Google Docs have become indispensable in our world. However, there is no reason
+why such important software should be hidden behind subscriptions, paywalls,
+and data hoarding providers. Now the time better than ever to switch over to a
+solution supporting open standards and protecting your data at no cost!
+This ensures good interoperability, which is evermore critical in a world where
+people need to share documents to many recipients on a very frequent basis.
+Especially as many schools and governmental organizations recently decided that
+cloud office solutions are unfit for sensitive data like that of children.
 
 | Software  | Description |
 |-----------|-------------|
@@ -183,7 +266,11 @@ Everyone needs an office suite occasionally. Software like Microsoft Office, and
 
 ### Collaboration Platforms
 
-Online team collaboration has been at the forefront of our lives for some time now, and it is increasingly clear, that it is here to stay. Thus, it is very unfortunate that many of the most popular options, like Slack, Microsoft Teams, and Google for Work have serious privacy issues. Luckily, there are great open-source alternatives out there to stay in control of your data.
+Online team collaboration has been at the forefront of our lives for some time now,
+and it is increasingly clear, that it is here to stay. Thus, it is very unfortunate
+that many of the most popular options, like Slack, Microsoft Teams,
+and Google for Work have serious privacy issues. Luckily, there are great open-source
+alternatives out there to stay in control of your data.
 
 | Software  | Description |
 |-----------|-------------|
@@ -192,7 +279,10 @@ Online team collaboration has been at the forefront of our lives for some time n
 
 ### Video Conferencing
 
-In light of the enormous amount of [security issues with Zoom](https://www.tomsguide.com/news/zoom-security-privacy-woes), and many other mainstream options, it becomes clear that we need open, private, and secure video calling. What solution works best for you depends on many things like usability, features, and security requirements.
+In light of the enormous amount of [security issues with Zoom](https://www.tomsguide.com/news/zoom-security-privacy-woes),
+and many other mainstream options, it becomes clear that we need open, private,
+and secure video calling. What solution works best for you depends on many things
+like usability, features, and security requirements.
 
 | Software  | Description |
 |-----------|-------------|
@@ -202,7 +292,12 @@ In light of the enormous amount of [security issues with Zoom](https://www.tomsg
 
 ### Remote Desktop
 
-Remote Desktop solutions are a great way to help others with problems they can't solve themselves, or simply to control your device while you are not next to it. Even though there are a lot of commercial solutions, the inherent risk of not knowing where essentially everything about your computer, including all the keystrokes you enter and the things you look at go to, is big. That's why I recommend choosing an open-source solution to make sure your data stays with you.
+Remote Desktop solutions are a great way to help others with problems they can't
+solve themselves, or simply to control your device while you are not next to it.
+Even though there are a lot of commercial solutions, the inherent risk of not
+knowing where essentially everything about your computer, including all the keystrokes
+you enter and the things you look at go to, is big. That's why I recommend choosing
+an open-source solution to make sure your data stays with you.
 
 | Software  | Description |
 |-----------|-------------|
@@ -212,7 +307,15 @@ Remote Desktop solutions are a great way to help others with problems they can't
 
 ### Photo Editing
 
-Open-source photo editing software is important for users who want to have more control over their digital creations. This allows users to create unique and personalized workflows that can be tailored to their specific projects. Additionally, open-source photo editing software is often free and can be used by anyone, regardless of their financial resources. This makes it an accessible option for users who cannot afford proprietary software or don't want to be at the grace of exploitative companies like Adobe. Overall, open-source photo editing software empowers users to take control of their creative process and produce high-quality digital content without being limited by the constraints of proprietary software.
+Open-source photo editing software is important for users who want to have more control
+over their digital creations. This allows users to create unique and personalized
+workflows that can be tailored to their specific projects. Additionally, open-source
+photo editing software is often free and can be used by anyone, regardless of their
+financial resources. This makes it an accessible option for users who cannot afford
+proprietary software or don't want to be at the grace of exploitative companies like
+Adobe. Overall, open-source photo editing software empowers users to take control
+of their creative process and produce high-quality digital content without being
+limited by the constraints of proprietary software.
 
 | Software  | Description |
 |-----------|-------------|
@@ -221,7 +324,15 @@ Open-source photo editing software is important for users who want to have more 
 
 ### Video Editing
 
-Open-source video editing software is essential for anyone looking to create, edit, or produce video content without relying on proprietary software. With the rise of social media and online video platforms, video content has become more prevalent than ever before. Open-source video editing software provides users with tools and features to cut, trim, and arrange video footage, add special effects and transitions, and export finished videos in a variety of formats, all while maintaining a commitment to open-source principles. Whether you're a professional videographer or an amateur content creator, open-source video editing software is a must-have tool for bringing your ideas to life on screen while promoting free and open collaboration.
+Open-source video editing software is essential for anyone looking to create,
+edit, or produce video content without relying on proprietary software.
+With the rise of social media and online video platforms, video content has become
+more prevalent than ever before. Open-source video editing software provides users
+with tools and features to cut, trim, and arrange video footage, add special effects
+and transitions, and export finished videos in a variety of formats, all while maintaining
+a commitment to open-source principles. Whether you're a professional videographer
+or an amateur content creator, open-source video editing software is a must-have
+tool for bringing your ideas to life on screen while promoting free and open collaboration.
 
 | Software  | Description |
 |-----------|-------------|
@@ -230,7 +341,13 @@ Open-source video editing software is essential for anyone looking to create, ed
 
 ### Digital Art
 
-Digital art and painting software has revolutionized the way artists create and share their work. With the power of digital tools, artists can create stunning artwork with precision, speed, and flexibility. From painting to drawing to sculpting, digital art software provides artists with an array of customizable brushes, colour palettes, and layer management tools to support their creative workflows. Open-source digital art software in particular allows artists to have greater control over their tools and techniques, while fostering a community of collaboration and innovation.
+Digital art and painting software has revolutionized the way artists create, and
+share their work. With the power of digital tools, artists can create stunning artwork
+with precision, speed, and flexibility. From painting to drawing to sculpting,
+digital art software provides artists with an array of customizable brushes,
+colour palettes, and layer management tools to support their creative workflows.
+Open-source digital art software in particular allows artists to have greater control
+over their tools and techniques, while fostering a community of collaboration & innovation.
 
 | Software  | Description |
 |-----------|-------------|
@@ -240,7 +357,12 @@ Digital art and painting software has revolutionized the way artists create and 
 
 ### Design and Prototyping
 
-Design and prototyping is an important step in software development and assists in creating software great for everyone, right in the spirit of open-source. Choosing a solution focusing on open-source makes sure you get great compatibility with other software thanks to a commitment to open standards, and it enables everyone and all teams no matter their resources to create great solutions competing with the big players.
+Design and prototyping is an important step in software development and assists
+in creating software great for everyone, right in the spirit of open-source.
+Choosing a solution focusing on open-source makes sure you get great compatibility
+with other software thanks to a commitment to open standards, and it enables everyone
+and all teams no matter their resources to create great solutions competing with
+the big players.
 
 | Software  | Description |
 |-----------|-------------|
@@ -248,7 +370,14 @@ Design and prototyping is an important step in software development and assists 
 
 ### 3D Computer Graphics
 
-3D computer graphics software is essential for anyone looking to create 3D models, animations, and visual effects. From film and TV to video games and product design, 3D computer graphics play a vital role in modern visual media. Open-source 3D computer graphics software provides users with powerful tools and features for modelling, rigging, animation, and rendering, while fostering a community of collaboration and innovation. Whether you're a professional animator or a hobbyist artist, open-source solutions will help you bring your creativity to life, no matter your resources.
+3D computer graphics software is essential for anyone looking to create 3D models,
+animations, and visual effects. From film and TV to video games and product design,
+3D computer graphics play a vital role in modern visual media. Open-source
+3D computer graphics software provides users with powerful tools and features
+for modelling, rigging, animation, and rendering, while fostering a community of
+collaboration and innovation. Whether you're a professional animator or a
+hobbyist artist, open-source solutions will help you bring your creativity to life,
+no matter your resources.
 
 | Software  | Description |
 |-----------|-------------|
@@ -256,7 +385,12 @@ Design and prototyping is an important step in software development and assists 
 
 #### Computer-aided Design (CAD)
 
-Open-source CAD software offers cost savings, customization, and transparency advantages over proprietary options. Additionally, utilizing open-source solutions enables designers to maintain control over their IP and data since they have full access to the source code, ensuring data sovereignty and privacy. This can be especially advantageous when using CAD software in a big environment, perhaps designing future intellectual property.
+Open-source CAD software offers cost savings, customization, and transparency over
+proprietary options. Additionally, utilizing open-source solutions enables designers
+to maintain control over their IP and data since they have full access to the
+source code, ensuring data sovereignty and privacy. This can be especially advantageous
+when using CAD software in a big environment, perhaps designing future intellectual
+property.
 
 | Software  | Description |
 |-----------|-------------|
@@ -269,7 +403,10 @@ Open-source CAD software offers cost savings, customization, and transparency ad
 
 ### Media Players
 
-From watching movies over binging series to listening to your favourite album — for all those things, you need a good and reliable media player. Because of their broad support of different audio & video formats, FOSS media players are highly regarded by consumers regardless of the genre.
+From watching movies over binging series to listening to your favourite album —
+for all those things, you need a good and reliable media player.
+Because of their broad support of different audio & video formats,
+FOSS media players are highly regarded by consumers regardless of the genre.
 
 | Software  | Description |
 |-----------|-------------|
@@ -278,7 +415,9 @@ From watching movies over binging series to listening to your favourite album �
 
 ### Podcatchers (Podcast Clients)
 
-Traditionally, podcasts are distributed through an RSS feed, to which podcast clients (also called podcatchers) can subscribe. It would only make sense to pair this distributed and open way to share media with a client that is open as well, right?
+Traditionally, podcasts are distributed through an RSS feed, to which podcast clients
+(also called podcatchers) can subscribe. It would only make sense to pair this distributed
+and open way to share media with a client that is open as well, right?
 
 | Software  | Description |
 |-----------|-------------|
@@ -287,11 +426,22 @@ Traditionally, podcasts are distributed through an RSS feed, to which podcast cl
 
 ## Development
 
-As software development continues to shape our world, it's increasingly important to ensure that the tools we use to create that software are trustworthy, secure, and transparent. Open-source not only encourages collaboration and innovation, but it also allows developers to ensure that the software they use meets their needs and is free from hidden backdoors or malicious code. By using open-source development tools, developers can have greater control over their development workflows and ensure that the software they create is secure, reliable, and respects user privacy while also staying safe themselves.
+As software development continues to shape our world, it's increasingly important
+to ensure that the tools we use to create that software are trustworthy, secure,
+and transparent. Open-source not only encourages collaboration and innovation,
+but it also allows developers to ensure that the software they use meets their needs
+and is free from hidden backdoors or malicious code.
+By using open-source development tools, developers can have greater control over
+their development workflows and ensure that the software they create is secure,
+reliable, and respects user privacy while also staying safe themselves.
 
 ### Code Editors
 
-Code editors are what most developers use to write code. People spend a considerable amount of time creating things they love in these text editors. For that reason, it is important that they are open-source and modular, so they can fit everyone's needs and, more importantly, so you get the final decision about your creations. Luckily, there are a lot of great options out there!
+Code editors are what most developers use to write code. People spend a considerable
+amount of time creating things they love in these advanced text editors.
+For that reason, it is important that they are open-source and modular,
+so they can fit everyone's needs and, more importantly, so you get the final decision
+about your creations. Luckily, there are a lot of great options out there!
 
 | Software  | Description |
 |-----------|-------------|
@@ -302,7 +452,12 @@ Code editors are what most developers use to write code. People spend a consider
 
 ### Game Development
 
-The gaming industry is huge, and many people don't just earn a living by creating games, but also spend numerous hours enjoying these worlds carefully curated by creative minds. Cases like the various Unity controversies have shown, that using an open-source game engine can be very important, especially for smaller projects. This ensures that their survival won't suddenly be destroyed by arbitrary fees and limitations.
+The gaming industry is huge, and many people don't just earn a living by
+creating games, but also spend numerous hours enjoying these worlds carefully
+curated by creative minds. Cases like the various Unity controversies have shown,
+that using an open-source game engine can be very important, especially for
+smaller projects. This ensures that their survival won't suddenly be destroyed
+by arbitrary fees and limitations.
 
 | Software | Description |
 |----------|-------------|
@@ -312,7 +467,10 @@ The gaming industry is huge, and many people don't just earn a living by creatin
 
 ## Contributing
 
-Thanks for checking out my list! It is still very much work in progress and new information will gradually be added whenever I discover new awesome FOSS software. If you want to help, contributions are very welcome, and you can find all the information you need to get started in: [`CONTRIBUTING.md`](CONTRIBUTING.md).
+Thanks for checking out my list! It is still very much work in progress and
+new information will gradually be added whenever I discover new awesome FOSS.
+If you want to help, contributions are very welcome, and you can find all the information
+you need to get started in: [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 ## License
 
