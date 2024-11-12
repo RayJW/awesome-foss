@@ -157,9 +157,9 @@ There are many more good options for private e-mail. Some notable ones are [Star
 
 | Software  | Description |
 |-----------|-------------|
-| [Mozilla Thunderbird](https://www.thunderbird.net) (Desktop) | As a free and open-source solution created and backed by Mozilla, Thunderbird is an excellent e-mail client for all major platforms that is customizable and easy to user. There is also the [Betterbird](https://www.betterbird.eu) fork, which aims to provide an even better experience with more bug fixes and features. |
+| [Mozilla Thunderbird](https://www.thunderbird.net) (Desktop, Android) | As a free and open-source solution created and backed by Mozilla, Thunderbird is an excellent e-mail client for all major platforms that is customizable and easy to use. They now also offer an Android option, which makes it a breeze to keep the experience consistent across all devices. There is also the [Betterbird](https://www.betterbird.eu) fork, which claims to provide an even better experience with more bug fixes and features. |
 | [RoundCube](https://roundcube.net) (Web) | This browser-based IMAP client features an application-like UI and has full functionality you would expect from an e-mail client. |
-| [K-9 Mail](https://k9mail.app) (Android) | It was acquired by Thunderbird and is probably the feature-richest Android e-mail client you can find. It provides all the features you need for secure messaging, including OpenGPG capabilities for E2EE e-mails. |
+| [K-9 Mail](https://k9mail.app) (Android) | It was acquired by Thunderbird and is probably the feature-richest Android e-mail client you can find. It provides all the functionality you need for secure messaging, including OpenGPG capabilities for E2EE e-mails. Note: while there are currently no deprecation plans, Thunderbird has now released the official Android app for Thunderbird, which will probably be better supported. Migration to Thunderbird Android is an easy matter of simply following their [migration guide](https://support.mozilla.org/en-US/kb/thunderbird-android-import). |
 
 ### Community Platforms
 
