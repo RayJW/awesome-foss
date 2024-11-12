@@ -89,7 +89,7 @@ Two-factor authentication has gained a lot of attention in recent years. However
 
 ### Browsers
 
-Browsers are one of the most important tools of our daily life. They are also a huge privacy and security threat since we use them to interface with all sorts of untrusted third-party websites. Since many modern applications are switching to the easier web app solution, they are also becoming increasingly influential as we started using browsers for many private things, e.g. mail. Thus, it is very important to use a secure and private option to protect yourself from the many unknown dangers of the open web.
+Browsers are one of the most important tools of our daily life. They are also a huge privacy and security threat since we use them to interface with all sorts of untrusted third-party websites. Since many modern applications are switching to the easier web app solution, they are also becoming increasingly influential as we started using browsers for many private things, e.g. e-mail. Thus, it is very important to use a secure and private option to protect yourself from the many unknown dangers of the open web.
 
 | Software  | Description |
 |-----------|-------------|
@@ -104,7 +104,7 @@ Google has shown time and time again that they are willing to abuse their browse
 
 #### Honourable Mentions
 
-[Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) is the only option I can somewhat recommend as it is a Chromium fork that completely removed all proprietary Google integration stuff and greatly increases your privacy.
+[Ungoogled Chromium](https://github.com/ungoogled-software/ungoogled-chromium) is the only option I can somewhat recommend, as it is a Chromium fork that completely removed all proprietary Google integration stuff and greatly increases your privacy.
 
 [Brave Browser](https://brave.com) is another option. However, there have been a few controversies surrounding it, e.g. it started manipulating links by adding referral codes. This is a tremendous break of trust as you, the user, should decide what links you want to visit and not your browser. Finally, it's also still Chromium-based, thus vulnerable to all those issues I talked about above. This is why I can't really recommend using Brave.
 
@@ -118,7 +118,7 @@ Instant messaging has become the main way we communicate these days. Although th
 |-----------|-------------|
 | [Signal](https://signal.org) | This is probably the most popular, secure, open-source messaging app out there at the moment. It uses the bulletproof [Signal Protocol](https://en.wikipedia.org/wiki/Signal_Protocol), and it sports features which match most of the less secure messaging services. It supports instant-messaging, voice and video calls, media and attachments, and even stories (which you can turn off completely in case you dislike them). Furthermore, it is completely free and has clients (that work independently of your phone) on basically every platform. Another handy features are usernames which means you can chat with people without ever disclosing your phone number to them. Signal is the messenger recommended by Edward Snowden. It is hands down the best solution for secure mainstream messaging. |
 | [SimpleX](https://simplex.chat) | SimpleX is a unique messenger which is probably the one most compatible with the strongest thread models. It has no identifiers tied to users and offers the ability to create and delete profiles on the spot without losing existing contacts. This enables the segmentation of contacts and complete anonymity when connecting with new entities. |
-| [Matrix](https://matrix.org) | This is the most commonly used messaging protocol in the decentralized world. What this means is that anyone can create their own server and decide what other servers he wants to connect with. That way you can ensure your data stays where you want it to stay, and you can still text, call, or video chat with anyone also using this protocol. The most famous Matrix client is [Element](https://element.io). Its features rival those of many other messengers, and it runs on almost anything. But since Matrix is just the protocol, you can use any client you want to chat. |
+| [Matrix](https://matrix.org) | This is the most commonly used messaging protocol in the decentralized world. What this means is that anyone can create their own server and decide what other servers he wants to connect with. That way you can ensure your data stays where you want it to stay, and you can still text, call, or video chat with anyone also using this protocol. The most famous Matrix client is [Element](https://element.io). Its features rival those of many other messengers, and it runs on almost anything. But, since Matrix is just the protocol, you can use any client you want to chat. |
 | [XMPP](https://xmpp.org) | This protocol, also known as Jabber, is a standard made for decentralized messaging. It has been in use for decades and used to be the base for many messaging apps until the Signal Protocol took over for the centralized solutions and Matrix for the decentralized messengers. |
 
 #### Honourable Mentions
@@ -133,20 +133,20 @@ While there are many messaging apps out there that claim to be secure, there are
 
 First things first, e-mail is **not** secure! E-mail is a flawed form of communication, as it is possible for third parties, including governments, to intercept and read e-mails. This is particularly true for e-mails that are transmitted over unencrypted connections.
 The [PRISM surveillance program](https://en.wikipedia.org/wiki/PRISM_(surveillance_program)), run by the National Security Agency (NSA) in the United States, is one example of how governments can access and analyze the e-mail and other electronic communications of individuals.
-While there are ways to secure e-mail and make it more difficult for third parties to intercept messages, such as using end-to-end encryption, it is important to be aware that e-mail is not a completely secure form of communication and to be cautious about the information you share via e-mail.
+While there are ways to secure e-mail and make it more difficult for third parties to intercept messages, such as using end-to-end encryption, it is important to be aware that e-mail is not a completely secure form of communication. Be cautious about the information you share via e-mail!
 I still provide a list of open-source, E2EE, and somewhat secure e-mail providers that do protect user data. This does not mean that you should rely on e-mail for sensitive information in most cases, though.
 
 #### E-mail Providers
 
 | Provider  | Description |
 |-----------|-------------|
-| [ProtonMail](https://proton.me/mail) | This is an open-source and E2EE e-mail service that is somewhat anonymous. It is based in Switzerland. They have a modern UI and native mobile apps. They offer a free plan that has everything you need to get you started and a premium option where you can get extras, like custom domains. Signing up requires no personal data, and you can access their service via Tor on their [.onion](https://protonirockerxow.onion) address. |
-| [Tuta](https://tuta.com) | This open-source e-mail service is based in Germany and has a basic UI that is pretty intuitive for people moving over. They also offer secure, native mobile apps, and anonymous signup. Just like with ProtonMail, you get the possibility to sign up for their free service or their premium plan offering additional features. However, their encryption does not use OpenPGP, which means support can be flaky with other e-mail providers. |
-| [mailbox.org](https://mailbox.org) | Mailbox.org is also based in Germany. They offer no free plan, but their standard service only costs €12/year. They are an eco-friendly service as their operations are 100% powered by eco-friendly energy. Furthermore, they also offer you to use your custom domain, e-mail encryption, proper account security, and encrypted mail storage. They don't have native e-mail clients, but they work well with any other client listed below. |
+| [ProtonMail](https://proton.me/mail) | This is an open-source and E2EE e-mail service that is somewhat anonymous. It is based in Switzerland and offers a modern UI and native mobile and desktop apps. They offer a free plan that has everything you need to get you started and a premium option where you can get extras, like custom domains. Signing up requires no personal data, and you can access their service via Tor on their [.onion](https://protonirockerxow.onion) address. |
+| [Tuta](https://tuta.com) | This open-source e-mail service is based in Germany and has a basic UI that is intuitive for people moving over. They also offer secure, native mobile apps, and anonymous signup. Just like with ProtonMail, you get the possibility to sign up for their free service or their premium plan offering additional features. However, their encryption does not use OpenPGP, which means support can be flaky with other e-mail providers. |
+| [mailbox.org](https://mailbox.org) | Mailbox.org is also based in Germany. They offer no free plan, but their standard service only costs €12/year. They are an eco-friendly service as their operations are 100% powered by eco-friendly energy. Furthermore, they also offer you to use your custom domain, e-mail encryption, proper account security, and encrypted e-mail storage. They don't have native e-mail clients, but they work well with any other client listed below. |
 
 ##### Honourable Mentions
 
-There are many more good options for private mail. Some notable ones are [StartMail](https://www.startmail.com), [HushMail](https://www.hushmail.com), and [Disroot](https://disroot.org/services/email).
+There are many more good options for private e-mail. Some notable ones are [StartMail](https://www.startmail.com), [HushMail](https://www.hushmail.com), and [Disroot](https://disroot.org/services/email).
 
 ##### Word of Caution
 
@@ -173,7 +173,7 @@ When communicating with big communities of strangers a very specific feature set
 
 ### Office Suite
 
-Everyone needs an office suite occasionally. Software like Microsoft Office, and Google Docs have become in disposable in our world. However, there is no reason why such important software should be hidden behind subscriptions, paywalls, and data hogging services. Now is the time better than ever to switch over to a solution supporting open standards and protecting your data at no cost! Especially as many schools / governments recently decided that cloud office solutions are unfit for sensitive data like that of children.
+Everyone needs an office suite occasionally. Software like Microsoft Office, and Google Docs have become indispensable in our world. However, there is no reason why such important software should be hidden behind subscriptions, paywalls, and data hoarding providers. Now the time better than ever to switch over to a solution supporting open standards and protecting your data at no cost! This ensures good interoperability, which is evermore critical in a world where people need to share documents to many recipients on a very frequent basis. Especially as many schools / governments recently decided that cloud office solutions are unfit for sensitive data like that of children.
 
 | Software  | Description |
 |-----------|-------------|
@@ -206,7 +206,7 @@ Remote Desktop solutions are a great way to help others with problems they can't
 
 | Software  | Description |
 |-----------|-------------|
-| [RustDesk](https://rustdesk.com) | RustDesk is an amazing open-source remote desktop software because it works straight out of the box but still gives you the option to choose your own rendezvous server, including a self-hosted one that they offer for download, or you can even write your own one because the protocol is fully open-source like everything else! |
+| [RustDesk](https://rustdesk.com) | RustDesk is an amazing open-source remote desktop software because it works straight out of the box but still gives you the option to choose your own rendezvous server, including a self-hosted one that they offer for download. One could even write their own server because the protocol is fully open-source like everything else! This makes it especially interesting for organizations, as an on-prem solution might be the only option to ensure compliance with security and privacy laws. |
 
 ## Creativity
 
@@ -262,7 +262,7 @@ Open-source CAD software offers cost savings, customization, and transparency ad
 |-----------|-------------|
 | [FreeCAD](https://www.freecad.org) | FreeCAD is an open-source parametric 3D modeler made to design real-life objects of all sizes. It is designed to support a wide range of uses, including but not limited to product design, mechanical engineering, and architecture. It has a lot of amazing features and people of all skills will feel right at home thanks to its intuitive and modular design. |
 | [LibreCAD](https://librecad.org) | LibreCAD is another great choice for open-source 2D-CAD work. It can work with DXF, DWG, and SVG files while maintaining a highly customizable user interface with dozens of translations available. |
-| [OpenSCAD](https://openscad.org) | OpenSCAD is a software for creating solid 3D CAD models. Unlike most other 3D modelling software, it does not focus on the artistic aspects, but instead on the CAD aspects. This is why its features are great for 3D models of machine parts and more. |
+| [OpenSCAD](https://openscad.org) | OpenSCAD is a software for creating solid 3D CAD models. Unlike most other 3D modelling software, it does not focus on the artistic aspects but instead on the CAD aspects. This is why its features are great for 3D models of machine parts and more. |
 | [KiCAD](https://www.kicad.org) | KiCad is an open-source electronics design automation suite. It is designed to support the user in PCB design, it has a very capable schematic, component and layout editor. In addition to that it has a useful 3d Viewer to integrate the electronics into a mechanical design. |
 
 ## Media
@@ -273,7 +273,7 @@ From watching movies over binging series to listening to your favourite album �
 
 | Software  | Description |
 |-----------|-------------|
-| [MPV](https://mpv.io) | MPV is a media player software primarily used through a Command-line interface, supporting a wide range of media formats. With its many configuration options and keyboard based operation, it was designed with more advanced users in mind, but the numerous GUIs and the online documentation allow beginners to enjoy the tool too. |
+| [MPV](https://mpv.io) | MPV is a media player software primarily used through a CLI, supporting a wide range of media formats. With its many configuration options and keyboard based operation, it was designed with more advanced users in mind, but the numerous options for a GUI and the extensive online documentation allows beginners to enjoy the tool too. |
 | [VLC](https://www.videolan.org/vlc/index.html) | VLC is another media player supporting almost any format imaginable. It has a user-friendly interface and can be used by anyone easily. It doesn't quite offer the same ability to customize every degree of your player as MPV, but even for advanced users, it is still a great choice. |
 
 ### Podcatchers (Podcast Clients)
@@ -302,7 +302,7 @@ Code editors are what most developers use to write code. People spend a consider
 
 ### Game Development
 
-The gaming industry is huge, and many people don't only earn a living by creating games but also spend numerous hours enjoying these words carefully curated by creative minds. Cases like the various Unity controversies have shown, that using an open-source game engine can be very important, especially for smaller projects, to ensure that their survival won't suddenly be destroyed any day.
+The gaming industry is huge, and many people don't just earn a living by creating games, but also spend numerous hours enjoying these worlds carefully curated by creative minds. Cases like the various Unity controversies have shown, that using an open-source game engine can be very important, especially for smaller projects. This ensures that their survival won't suddenly be destroyed by arbitrary fees and limitations.
 
 | Software | Description |
 |----------|-------------|
