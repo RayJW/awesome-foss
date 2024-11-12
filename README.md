@@ -35,11 +35,10 @@ that you can use as a replacement for proprietary solutions.
       - [Honourable Mentions](#honourable-mentions-1)
   - [Communication](#communication)
     - [Instant Messaging](#instant-messaging)
-      - [Honourable Mentions](#honourable-mentions-2)
       - [Word of Caution](#word-of-caution)
     - [E-mail](#e-mail)
       - [E-mail Providers](#e-mail-providers)
-        - [Honourable Mentions](#honourable-mentions-3)
+        - [Honourable Mentions](#honourable-mentions-2)
         - [Word of Caution](#word-of-caution-1)
       - [E-mail Clients](#e-mail-clients)
     - [Community Platforms](#community-platforms)
@@ -172,10 +171,6 @@ transparent business practices.
 | [SimpleX](https://simplex.chat) | SimpleX is a unique messenger which is probably the one most compatible with the strongest thread models. It has no identifiers tied to users and offers the ability to create and delete profiles on the spot without losing existing contacts. This enables the segmentation of contacts and complete anonymity when connecting with new entities. |
 | [Matrix](https://matrix.org) | This is the most commonly used messaging protocol in the decentralized world. What this means is that anyone can create their own server and decide what other servers he wants to connect with. That way you can ensure your data stays where you want it to stay, and you can still text, call, or video chat with anyone also using this protocol. The most famous Matrix client is [Element](https://element.io). Its features rival those of many other messengers, and it runs on almost anything. But, since Matrix is just the protocol, you can use any client you want to chat. |
 | [XMPP](https://xmpp.org) | This protocol, also known as Jabber, is a standard made for decentralized messaging. It has been in use for decades and used to be the base for many messaging apps until the Signal Protocol took over for the centralized solutions and Matrix for the decentralized messengers. |
-
-#### Honourable Mentions
-
-[Silence](https://silence.im) is a decent option if you are still bound to traditional SMS messaging, since it makes it easy to encrypt SMS/MMS. However, this is more of a workaround since internet-based messaging is much more flexible, faster, and more censorship resistant than SMS/MMS.
 
 #### Word of Caution
 
