@@ -236,7 +236,7 @@ have to be that way. There are open-source alternatives that respect your privac
 
 | Software  | Description |
 |-----------|-------------|
-| [Revolt.Chat](https://revolt.chat) | Although, still in public beta Revolt.Chat already features an impressive repertoire of features. It is the closest to a Discord alternative you will probably get and has an impressive looking roadmap. It has a much more open approach than Discord, featuring community themes, and plugins without the risk of getting banned for using a modified client. Furthermore, it respects your privacy and collects no personal data, and it even has plans for full E2EE for direct, and group messaging. |
+| [Revolt.Chat](https://stoat.chat) | Although, still in public beta Revolt.Chat already features an impressive repertoire of features. It is the closest to a Discord alternative you will probably get and has an impressive looking roadmap. It has a much more open approach than Discord, featuring community themes, and plugins without the risk of getting banned for using a modified client. Furthermore, it respects your privacy and collects no personal data, and it even has plans for full E2EE for direct, and group messaging. |
 
 ## Productivity
 
