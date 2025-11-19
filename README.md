@@ -107,7 +107,7 @@ case of device failure or loss.
 | [2FAS](https://2fas.com) (iOS / Android / Browser) | This beautiful 2FA app is fully open-source and has privacy in mind at every step. It is available for both iOS and Android, and it also features a browser companion. |
 | [Authenticator](https://mattrubin.me/authenticator) (iOS) | Authenticator is a simple, and open-source authenticator app for iOS that never connects to the internet. |
 | [Authenticator](https://authenticator.cc) (Browser) | The Authenticator browser extension adds 2FA support right into your browser with both time, and HMAC-Based OTPs. |
-| [Ente Auth](https://github.com/ente-io/ente/blob/main/auth/README.md) (Cross-platform) | Ente Auth is an offering by the open-source photo storage provider Ente. It offers everything one could need, cross-platform syncing with apps for iOS, Android, Windows, macOS, and Linux. They offer an option to import and export your data, your data is kept safe since everything is end-to-end encrypted. |
+| [Ente Auth](https://ente.io/auth) (Cross-platform) | Ente Auth is an offering by the open-source photo storage provider Ente. It offers everything one could need, cross-platform syncing with apps for iOS, Android, Windows, macOS, and Linux. They offer an option to import and export your data, your data is kept safe since everything is end-to-end encrypted. |
 | [Bitwarden Authenticator](https://bitwarden.com/download/#bitwarden-authenticator-mobile) (iOS / Android) | This is a relatively new offering by the highly trusted team behind Bitwarden. While they already offered the option to store 2FA codes inside their password manager, this now provides you with the option to keep data separate from your passwords. |
 
 ### Browsers
