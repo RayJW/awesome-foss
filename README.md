@@ -236,7 +236,7 @@ have to be that way. There are open-source alternatives that respect your privac
 
 | Software  | Description |
 |-----------|-------------|
-| [Revolt.Chat](https://stoat.chat) | Although, still in public beta Revolt.Chat already features an impressive repertoire of features. It is the closest to a Discord alternative you will probably get and has an impressive looking roadmap. It has a much more open approach than Discord, featuring community themes, and plugins without the risk of getting banned for using a modified client. Furthermore, it respects your privacy and collects no personal data, and it even has plans for full E2EE for direct, and group messaging. |
+| [Stoat](https://stoat.chat) | Although, still in public beta Stoat already features an impressive repertoire of features. It is the closest to a Discord alternative you will probably get and has an impressive looking roadmap. It has a much more open approach than Discord, featuring community themes, and plugins without the risk of getting banned for using a modified client. Furthermore, it respects your privacy and collects no personal data, and it even has plans for full E2EE for direct, and group messaging. |
 
 ## Productivity
 
@@ -441,7 +441,7 @@ about your creations. Luckily, there are a lot of great options out there!
 |-----------|-------------|
 | [VSCodium](https://vscodium.com) | Everyone probably knows VS Code. However, not everyone knows that it is made by Microsoft. That means it includes proprietary third party trackers and telemetry, which not everyone might like. VSCodium is the fully open-source alternative, which removes everything that is not open-source, including all trackers from VS Code. |
 | [Pulsar](https://pulsar-edit.dev) | Atom was another great option in the IDE space. But, ever since Microsoft bought GitHub everyone probably expected them to stop development eventually. Out of the ashes of Atom rose Pulsar, a fully open-source community driven fork which aims to be everything that Atom was and more. This might be your option if you don't like the idea of VS Code being made by Microsoft. |
-| [Lapce](https://lapce.dev) | In case all the Chromium based editors are not your thing, Lapce is an amazing alternative. It is written in Rust and thus compiles to be a native option with GPU acceleration and low resource use. On top of that, their native Vim like editing and WASI plugin system means you can do whatever you want with it. |
+| [Lapce](https://lap.dev/lapce) | In case all the Chromium based editors are not your thing, Lapce is an amazing alternative. It is written in Rust and thus compiles to be a native option with GPU acceleration and low resource use. On top of that, their native Vim like editing and WASI plugin system means you can do whatever you want with it. |
 | [Zed](https://zed.dev) | Zed is a very new contender since they recently turned open-source from a previously proprietary development model. Their headline features include the incredible performance, thanks to the fact that they built their editor from the ground up using Rust. Also, the focus on their “multiplayer” functionality makes it very easy for teams to work together on a code base. While they are currently only offering a stable build for macOS and Linux, a Windows option is in the works. |
 
 ### Game Development
